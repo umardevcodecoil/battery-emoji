@@ -48,7 +48,7 @@
       "id": "combo_panda_classic",
       "name": "Happy Panda",
       "categoryId": "animals",
-      "previewFile": "combos/Animals/combo_panda_classic.lottie",
+      "previewFile": "combos/Animals/combo_panda_classic.png",
       "emojiId": "panda",
       "batteryIconId": "classic_green",
       "isDefault": true,
