@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "baseUrl": "https://cdn.jsdelivr.net/gh/umardevcodecoil/battery-emoji@main/packs/",
+
+  "categories": [
+    { "id": "aesthetic", "name": "Aesthetic" },
+    { "id": "animals", "name": "Animals" },
+    { "id": "cute", "name": "Cute" },
+    { "id": "fantasy", "name": "Fantasy" },
+    { "id": "food", "name": "Food" },
+    { "id": "funny", "name": "Funny" },
+    { "id": "love", "name": "Love" },
+    { "id": "mood", "name": "Mood" },
+    { "id": "nature", "name": "Nature" },
+    { "id": "seasonal", "name": "Seasonal" }
+  ],
+
+  "emojis": [
+    {
+      "id": "panda",
+      "name": "Panda",
+      "categoryId": "animals",
+      "file": "emojis/Animals/panda.lottie",
+      "checksum": "REPLACE_WITH_SHA256"
+    }
+  ],
+
+  "batteryIcons": [
+    {
+      "id": "classic_green",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "file": "battery/Animals/classic_green.lottie",
+      "checksum": "REPLACE_WITH_SHA256",
+      "fillSlot": {
+        "orientation": "vertical",
+        "segments": 4,
+        "x": 0.30,
+        "y": 0.20,
+        "width": 0.40,
+        "height": 0.65
+      }
+    }
+  ],
+
+  "combos": [
+    {
+      "id": "combo_panda_classic",
+      "name": "Happy Panda",
+      "categoryId": "animals",
+      "previewFile": "combos/Animals/combo_panda_classic.lottie",
+      "emojiId": "panda",
+      "batteryIconId": "classic_green",
+      "isDefault": true,
+      "isPremium": false
+    }
+  ]
+}
