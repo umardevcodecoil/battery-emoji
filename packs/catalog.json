@@ -53,6 +53,96 @@
       "batteryIconId": "classic_green",
       "isDefault": true,
       "isPremium": false
+    },
+     {
+      "id": "combo_panda_classic",
+      "name": "Happy Panda",
+      "categoryId": "love",
+      "previewFile": "combos/Love/combo_panda_classic.png",
+      "emojiId": "panda",
+      "batteryIconId": "classic_green",
+      "isDefault": true,
+      "isPremium": false
+    },
+     {
+      "id": "combo_panda_classic",
+      "name": "Happy Panda",
+      "categoryId": "cute",
+      "previewFile": "combos/Cute/combo_panda_classic.png",
+      "emojiId": "panda",
+      "batteryIconId": "classic_green",
+      "isDefault": true,
+      "isPremium": false
+    },
+     {
+      "id": "combo_panda_classic",
+      "name": "Happy Panda",
+      "categoryId": "fantasy",
+      "previewFile": "combos/Fantasy/combo_panda_classic.png",
+      "emojiId": "panda",
+      "batteryIconId": "classic_green",
+      "isDefault": true,
+      "isPremium": false
+    },
+     {
+      "id": "combo_panda_classic",
+      "name": "Happy Panda",
+      "categoryId": "nature",
+      "previewFile": "combos/Nature/combo_panda_classic.png",
+      "emojiId": "panda",
+      "batteryIconId": "classic_green",
+      "isDefault": true,
+      "isPremium": false
+    },
+     {
+      "id": "combo_panda_classic",
+      "name": "Happy Panda",
+      "categoryId": "food",
+      "previewFile": "combos/Food/combo_panda_classic.png",
+      "emojiId": "panda",
+      "batteryIconId": "classic_green",
+      "isDefault": true,
+      "isPremium": false
+    },
+     {
+      "id": "combo_panda_classic",
+      "name": "Happy Panda",
+      "categoryId": "seasonal",
+      "previewFile": "combos/Seasonal/combo_panda_classic.png",
+      "emojiId": "panda",
+      "batteryIconId": "classic_green",
+      "isDefault": true,
+      "isPremium": false
+    },
+     {
+      "id": "combo_panda_classic",
+      "name": "Happy Panda",
+      "categoryId": "mood",
+      "previewFile": "combos/Mood/combo_panda_classic.png",
+      "emojiId": "panda",
+      "batteryIconId": "classic_green",
+      "isDefault": true,
+      "isPremium": false
+    },
+     {
+      "id": "combo_panda_classic",
+      "name": "Happy Panda",
+      "categoryId": "aesthetic",
+      "previewFile": "combos/Aesthetic/combo_panda_classic.png",
+      "emojiId": "panda",
+      "batteryIconId": "classic_green",
+      "isDefault": true,
+      "isPremium": false
+    },
+     {
+      "id": "combo_panda_classic",
+      "name": "Happy Panda",
+      "categoryId": "funny",
+      "previewFile": "combos/Funny/combo_panda_classic.png",
+      "emojiId": "panda",
+      "batteryIconId": "classic_green",
+      "isDefault": true,
+      "isPremium": false
     }
   ]
 }
