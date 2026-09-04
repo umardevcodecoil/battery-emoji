@@ -48,7 +48,7 @@
       "id": "panda",
       "name": "Panda",
       "categoryId": "animals",
-      "file": "emojis/Animals/panda.lottie",
+      "file": "emojis/Animals/animal_1_emoji.png",
       "checksum": "REPLACE_WITH_SHA256"
     }
   ],
@@ -57,7 +57,7 @@
       "id": "classic_green",
       "name": "Classic Green",
       "categoryId": "animals",
-      "file": "battery/Animals/classic_green.lottie",
+      "file": "battery/Animals/animal_1_battery.png",
       "checksum": "REPLACE_WITH_SHA256",
       "fillSlot": {
         "orientation": "vertical",
@@ -267,7 +267,7 @@
       "id": "combo_panda_classic_animals",
       "name": "Happy Panda",
       "categoryId": "animals",
-      "previewFile": "combos/Animals/combo_panda_classic.png",
+      "previewFile": "combos/Animals/animal_1_combo.png",
       "emojiId": "panda",
       "batteryIconId": "classic_green",
       "isDefault": true,
