@@ -43,9 +43,114 @@
     }
   ],
 
+  "backgrounds": [
+    {
+      "id": "pink_hex_pattern",
+      "name": "Pink Hex",
+      "categoryId": "aesthetic",
+      "file": "backgrounds/Aesthetic/pink_hex_pattern.png",
+      "checksum": "REPLACE_WITH_SHA256",
+      "themeColor": "#E8368F",
+      "isPremium": false
+    }
+  ],
+
+  "systemIcons": {
+    "wifi": [
+      {
+        "id": "wifi_default",
+        "name": "Default Wifi",
+        "file": "wifi/wifi_default.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "wifi_rounded",
+        "name": "Rounded Wifi",
+        "file": "wifi/wifi_rounded.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "wifi_outline",
+        "name": "Outline Wifi",
+        "file": "wifi/wifi_outline.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      }
+    ],
+    "signal": [
+      {
+        "id": "signal_default",
+        "name": "Default Signal",
+        "file": "signal/signal_default.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "signal_rounded",
+        "name": "Rounded Signal",
+        "file": "signal/signal_rounded.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "signal_dots",
+        "name": "Dots Signal",
+        "file": "signal/signal_dots.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      }
+    ],
+    "airplane": [
+      {
+        "id": "airplane_default",
+        "name": "Default Airplane",
+        "file": "airplane/airplane_default.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "airplane_outline",
+        "name": "Outline Airplane",
+        "file": "airplane/airplane_outline.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      }
+    ],
+    "ringer": [
+      {
+        "id": "ringer_default",
+        "name": "Default Ringer",
+        "file": "ringer/ringer_default.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "ringer_vibrate",
+        "name": "Vibrate",
+        "file": "ringer/ringer_vibrate.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "ringer_silent",
+        "name": "Silent",
+        "file": "ringer/ringer_silent.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      }
+    ],
+    "hotspot": [
+      {
+        "id": "hotspot_default",
+        "name": "Default Hotspot",
+        "file": "hotspot/hotspot_default.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      }
+    ],
+    "charging": [
+      {
+        "id": "charging_default",
+        "name": "Default Charging Bolt",
+        "file": "charging/charging_default.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      }
+    ]
+  },
+
   "combos": [
     {
-      "id": "combo_panda_classic",
+      "id": "combo_panda_classic_animals",
       "name": "Happy Panda",
       "categoryId": "animals",
       "previewFile": "combos/Animals/combo_panda_classic.png",
@@ -54,93 +159,114 @@
       "isDefault": true,
       "isPremium": false
     },
-     {
-      "id": "combo_panda_classic",
+    {
+      "id": "combo_panda_classic_love",
       "name": "Happy Panda",
       "categoryId": "love",
       "previewFile": "combos/Love/combo_panda_classic.png",
       "emojiId": "panda",
       "batteryIconId": "classic_green",
-      "isDefault": true,
+      "isDefault": false,
       "isPremium": false
     },
-     {
-      "id": "combo_panda_classic",
+    {
+      "id": "combo_panda_classic_cute",
       "name": "Happy Panda",
       "categoryId": "cute",
       "previewFile": "combos/Cute/combo_panda_classic.png",
       "emojiId": "panda",
       "batteryIconId": "classic_green",
-      "isDefault": true,
+      "isDefault": false,
       "isPremium": false
     },
-     {
-      "id": "combo_panda_classic",
+    {
+      "id": "combo_panda_classic_fantasy",
       "name": "Happy Panda",
       "categoryId": "fantasy",
       "previewFile": "combos/Fantasy/combo_panda_classic.png",
       "emojiId": "panda",
       "batteryIconId": "classic_green",
-      "isDefault": true,
+      "isDefault": false,
       "isPremium": false
     },
-     {
-      "id": "combo_panda_classic",
+    {
+      "id": "combo_panda_classic_nature",
       "name": "Happy Panda",
       "categoryId": "nature",
       "previewFile": "combos/Nature/combo_panda_classic.png",
       "emojiId": "panda",
       "batteryIconId": "classic_green",
-      "isDefault": true,
+      "isDefault": false,
       "isPremium": false
     },
-     {
-      "id": "combo_panda_classic",
+    {
+      "id": "combo_panda_classic_food",
       "name": "Happy Panda",
       "categoryId": "food",
       "previewFile": "combos/Food/combo_panda_classic.png",
       "emojiId": "panda",
       "batteryIconId": "classic_green",
-      "isDefault": true,
+      "isDefault": false,
       "isPremium": false
     },
-     {
-      "id": "combo_panda_classic",
+    {
+      "id": "combo_panda_classic_seasonal",
       "name": "Happy Panda",
       "categoryId": "seasonal",
       "previewFile": "combos/Seasonal/combo_panda_classic.png",
       "emojiId": "panda",
       "batteryIconId": "classic_green",
-      "isDefault": true,
+      "isDefault": false,
       "isPremium": false
     },
-     {
-      "id": "combo_panda_classic",
+    {
+      "id": "combo_panda_classic_mood",
       "name": "Happy Panda",
       "categoryId": "mood",
       "previewFile": "combos/Mood/combo_panda_classic.png",
       "emojiId": "panda",
       "batteryIconId": "classic_green",
-      "isDefault": true,
+      "isDefault": false,
       "isPremium": false
     },
-     {
-      "id": "combo_panda_classic",
+    {
+      "id": "combo_panda_classic_aesthetic",
       "name": "Happy Panda",
       "categoryId": "aesthetic",
       "previewFile": "combos/Aesthetic/combo_panda_classic.png",
       "emojiId": "panda",
       "batteryIconId": "classic_green",
-      "isDefault": true,
+      "isDefault": false,
       "isPremium": false
     },
-     {
-      "id": "combo_panda_classic",
+    {
+      "id": "combo_panda_classic_funny",
       "name": "Happy Panda",
       "categoryId": "funny",
       "previewFile": "combos/Funny/combo_panda_classic.png",
       "emojiId": "panda",
       "batteryIconId": "classic_green",
+      "isDefault": false,
+      "isPremium": false
+    }
+  ],
+
+  "templates": [
+    {
+      "id": "template_panda_pink",
+      "name": "Happy Panda",
+      "categoryId": "animals",
+      "previewFile": "templates/Animals/template_panda_pink.png",
+      "comboId": "combo_panda_classic_animals",
+      "backgroundId": "pink_hex_pattern",
+      "themeColor": "#E8368F",
+      "timeFont": "poppins_bold",
+      "wifiIconId": "wifi_default",
+      "signalIconId": "signal_default",
+      "airplaneIconId": "airplane_default",
+      "ringerIconId": "ringer_default",
+      "hotspotIconId": "ringer_default,
+      "chargingIconId": "charging_default,
       "isDefault": true,
       "isPremium": false
     }
