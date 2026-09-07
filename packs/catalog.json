@@ -173,75 +173,231 @@
   "systemIcons": {
     "wifi": [
       {
-        "id": "wifi_default",
-        "name": "Default Wifi",
-        "file": "wifi/wifi_default.svg",
+        "id": "wifi_1",
+        "name": "Wifi 1",
+        "file": "wifi/wifi_1.svg",
         "checksum": "REPLACE_WITH_SHA256"
       },
       {
-        "id": "wifi_rounded",
-        "name": "Rounded Wifi",
-        "file": "wifi/wifi_rounded.svg",
+        "id": "wifi_2",
+        "name": "Wifi 2",
+        "file": "wifi/wifi_2.svg",
         "checksum": "REPLACE_WITH_SHA256"
       },
       {
-        "id": "wifi_outline",
-        "name": "Outline Wifi",
-        "file": "wifi/wifi_outline.svg",
+        "id": "wifi_3",
+        "name": "Wifi 3",
+        "file": "wifi/wifi_3.svg",
         "checksum": "REPLACE_WITH_SHA256"
-      }
+      },
+      {
+        "id": "wifi_4",
+        "name": "Wifi 4",
+        "file": "wifi/wifi_4.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "wifi_5",
+        "name": "Wifi 5",
+        "file": "wifi/wifi_5.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "wifi_6",
+        "name": "Wifi 6",
+        "file": "wifi/wifi_6.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "wifi_7",
+        "name": "Wifi 7",
+        "file": "wifi/wifi_7.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "wifi_8",
+        "name": "Wifi 8",
+        "file": "wifi/wifi_8.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
     ],
     "signal": [
       {
-        "id": "signal_default",
-        "name": "Default Signal",
-        "file": "signal/signal_default.svg",
+        "id": "signal_1",
+        "name": "Signal 1",
+        "file": "signal/signal_1.svg",
         "checksum": "REPLACE_WITH_SHA256"
       },
       {
-        "id": "signal_rounded",
-        "name": "Rounded Signal",
-        "file": "signal/signal_rounded.svg",
+        "id": "signal_2",
+        "name": "Signal 2",
+        "file": "signal/signal_2.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+        {
+        "id": "signal_3",
+        "name": "Signal 3",
+        "file": "signal/signal_3.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+       {
+        "id": "signal_4",
+        "name": "Signal 4",
+        "file": "signal/signal_4.svg",
         "checksum": "REPLACE_WITH_SHA256"
       },
       {
-        "id": "signal_dots",
-        "name": "Dots Signal",
-        "file": "signal/signal_dots.svg",
+        "id": "signal_5",
+        "name": "Signal 5",
+        "file": "signal/signal_5.svg",
         "checksum": "REPLACE_WITH_SHA256"
-      }
+      },
+        {
+        "id": "signal_6",
+        "name": "Signal 6",
+        "file": "signal/signal_6.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+       {
+        "id": "signal_7",
+        "name": "Signal 7",
+        "file": "signal/signal_7.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "signal_8",
+        "name": "Signal 8",
+        "file": "signal/signal_8.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
     ],
     "airplane": [
       {
-        "id": "airplane_default",
-        "name": "Default Airplane",
-        "file": "airplane/airplane_default.svg",
+        "id": "plane_1",
+        "name": "Airplane 1",
+        "file": "airplane/plane_1.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+       {
+        "id": "plane_2",
+        "name": "Airplane 2",
+        "file": "airplane/plane_2.svg",
         "checksum": "REPLACE_WITH_SHA256"
       },
       {
-        "id": "airplane_outline",
-        "name": "Outline Airplane",
-        "file": "airplane/airplane_outline.svg",
+        "id": "plane_3",
+        "name": "Airplane 3",
+        "file": "airplane/plane_3.svg",
         "checksum": "REPLACE_WITH_SHA256"
-      }
+      },
+       {
+        "id": "plane_4",
+        "name": "Airplane 4",
+        "file": "airplane/plane_4.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "plane_5",
+        "name": "Airplane 5",
+        "file": "airplane/plane_5.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+       {
+        "id": "plane_6",
+        "name": "Airplane 6",
+        "file": "airplane/plane_6.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "plane_7",
+        "name": "Airplane 7",
+        "file": "airplane/plane_7.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+       {
+        "id": "plane_8",
+        "name": "Airplane 8",
+        "file": "airplane/plane_8.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "plane_9",
+        "name": "Airplane 9",
+        "file": "airplane/plane_9.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+       {
+        "id": "plane_10",
+        "name": "Airplane 10",
+        "file": "airplane/plane_10.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
     ],
     "ringer": [
       {
-        "id": "ringer_default",
-        "name": "Default Ringer",
-        "file": "ringer/ringer_default.svg",
+        "id": "ringer_1",
+        "name": "Ringer 1",
+        "file": "ringer/ringer_1.svg",
         "checksum": "REPLACE_WITH_SHA256"
       },
       {
-        "id": "ringer_vibrate",
-        "name": "Vibrate",
-        "file": "ringer/ringer_vibrate.svg",
+        "id": "ringer_2",
+        "name": "Ringer 2",
+        "file": "ringer/ringer_2.svg",
         "checksum": "REPLACE_WITH_SHA256"
       },
       {
-        "id": "ringer_silent",
-        "name": "Silent",
-        "file": "ringer/ringer_silent.svg",
+        "id": "ringer_3",
+        "name": "Ringer 3",
+        "file": "ringer/ringer_3.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+       {
+        "id": "ringer_4",
+        "name": "Ringer 4",
+        "file": "ringer/ringer_4.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "ringer_5",
+        "name": "Ringer 5",
+        "file": "ringer/ringer_5.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "ringer_6",
+        "name": "Ringer 6",
+        "file": "ringer/ringer_6.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+       {
+        "id": "ringer_7",
+        "name": "Ringer 7",
+        "file": "ringer/ringer_7.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "ringer_8",
+        "name": "Ringer 8",
+        "file": "ringer/ringer_8.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "ringer_9",
+        "name": "Ringer 9",
+        "file": "ringer/ringer_9.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+       {
+        "id": "ringer_10",
+        "name": "Ringer 10",
+        "file": "ringer/ringer_10.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "ringer_11",
+        "name": "Ringer 11",
+        "file": "ringer/ringer_11.svg",
         "checksum": "REPLACE_WITH_SHA256"
       }
     ],
