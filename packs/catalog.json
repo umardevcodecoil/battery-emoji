@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 1,
   "baseUrl": "https://cdn.jsdelivr.net/gh/umardevcodecoil/battery-emoji@main/packs/",
   "categories": [
     {
@@ -219,7 +219,7 @@
         "name": "Wifi 8",
         "file": "wifi/wifi_8.svg",
         "checksum": "REPLACE_WITH_SHA256"
-      },
+      }
     ],
     "signal": [
       {
@@ -234,13 +234,13 @@
         "file": "signal/signal_2.svg",
         "checksum": "REPLACE_WITH_SHA256"
       },
-        {
+      {
         "id": "signal_3",
         "name": "Signal 3",
         "file": "signal/signal_3.svg",
         "checksum": "REPLACE_WITH_SHA256"
       },
-       {
+      {
         "id": "signal_4",
         "name": "Signal 4",
         "file": "signal/signal_4.svg",
@@ -252,13 +252,13 @@
         "file": "signal/signal_5.svg",
         "checksum": "REPLACE_WITH_SHA256"
       },
-        {
+      {
         "id": "signal_6",
         "name": "Signal 6",
         "file": "signal/signal_6.svg",
         "checksum": "REPLACE_WITH_SHA256"
       },
-       {
+      {
         "id": "signal_7",
         "name": "Signal 7",
         "file": "signal/signal_7.svg",
@@ -269,7 +269,7 @@
         "name": "Signal 8",
         "file": "signal/signal_8.svg",
         "checksum": "REPLACE_WITH_SHA256"
-      },
+      }
     ],
     "airplane": [
       {
@@ -278,7 +278,7 @@
         "file": "airplane/plane_1.svg",
         "checksum": "REPLACE_WITH_SHA256"
       },
-       {
+      {
         "id": "plane_2",
         "name": "Airplane 2",
         "file": "airplane/plane_2.svg",
@@ -290,7 +290,7 @@
         "file": "airplane/plane_3.svg",
         "checksum": "REPLACE_WITH_SHA256"
       },
-       {
+      {
         "id": "plane_4",
         "name": "Airplane 4",
         "file": "airplane/plane_4.svg",
@@ -302,7 +302,7 @@
         "file": "airplane/plane_5.svg",
         "checksum": "REPLACE_WITH_SHA256"
       },
-       {
+      {
         "id": "plane_6",
         "name": "Airplane 6",
         "file": "airplane/plane_6.svg",
@@ -314,7 +314,7 @@
         "file": "airplane/plane_7.svg",
         "checksum": "REPLACE_WITH_SHA256"
       },
-       {
+      {
         "id": "plane_8",
         "name": "Airplane 8",
         "file": "airplane/plane_8.svg",
@@ -326,12 +326,12 @@
         "file": "airplane/plane_9.svg",
         "checksum": "REPLACE_WITH_SHA256"
       },
-       {
+      {
         "id": "plane_10",
         "name": "Airplane 10",
         "file": "airplane/plane_10.svg",
         "checksum": "REPLACE_WITH_SHA256"
-      },
+      }
     ],
     "ringer": [
       {
@@ -352,7 +352,7 @@
         "file": "ringer/ringer_3.svg",
         "checksum": "REPLACE_WITH_SHA256"
       },
-       {
+      {
         "id": "ringer_4",
         "name": "Ringer 4",
         "file": "ringer/ringer_4.svg",
@@ -370,7 +370,7 @@
         "file": "ringer/ringer_6.svg",
         "checksum": "REPLACE_WITH_SHA256"
       },
-       {
+      {
         "id": "ringer_7",
         "name": "Ringer 7",
         "file": "ringer/ringer_7.svg",
@@ -388,7 +388,7 @@
         "file": "ringer/ringer_9.svg",
         "checksum": "REPLACE_WITH_SHA256"
       },
-       {
+      {
         "id": "ringer_10",
         "name": "Ringer 10",
         "file": "ringer/ringer_10.svg",
