@@ -487,6 +487,12 @@
         "name": "Charging 7",
         "file": "charging/charging_7.svg",
         "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "charging_8",
+        "name": "Charging 8",
+        "file": "charging/charging_7.svg",
+        "checksum": "REPLACE_WITH_SHA256"
       }
     ]
   },
