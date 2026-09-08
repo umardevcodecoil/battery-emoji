@@ -403,17 +403,89 @@
     ],
     "hotspot": [
       {
-        "id": "hotspot_default",
-        "name": "Default Hotspot",
-        "file": "hotspot/hotspot_default.svg",
+        "id": "hotspot_1",
+        "name": "Hotspot 1",
+        "file": "hotspot/hotspot_1.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "hotspot_2",
+        "name": "Hotspot 2",
+        "file": "hotspot/hotspot_2.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "hotspot_3",
+        "name": "Hotspot 3",
+        "file": "hotspot/hotspot_3.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "hotspot_4",
+        "name": "Hotspot 4",
+        "file": "hotspot/hotspot_4.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "hotspot_5",
+        "name": "Hotspot 5",
+        "file": "hotspot/hotspot_5.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      } ,
+      {
+        "id": "hotspot_6",
+        "name": "Hotspot 6",
+        "file": "hotspot/hotspot_6.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "hotspot_7",
+        "name": "Hotspot 7",
+        "file": "hotspot/hotspot_7.svg",
         "checksum": "REPLACE_WITH_SHA256"
       }
     ],
     "charging": [
       {
-        "id": "charging_default",
-        "name": "Default Charging Bolt",
-        "file": "charging/charging_default.svg",
+        "id": "charging_1",
+        "name": "Charging 1",
+        "file": "charging/charging_1.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "charging_2",
+        "name": "Charging 2",
+        "file": "charging/charging_2.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "charging_3",
+        "name": "Charging 3",
+        "file": "charging/charging_3.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "charging_4",
+        "name": "Charging 4",
+        "file": "charging/charging_4.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "charging_5",
+        "name": "Charging 5",
+        "file": "charging/charging_5.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "charging_6",
+        "name": "Charging 6",
+        "file": "charging/charging_6.svg",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "charging_7",
+        "name": "Charging 7",
+        "file": "charging/charging_7.svg",
         "checksum": "REPLACE_WITH_SHA256"
       }
     ]
