@@ -494,7 +494,45 @@
         "file": "charging/charging_7.svg",
         "checksum": "REPLACE_WITH_SHA256"
       }
-    ]
+    ],
+    "fonts": [
+    {
+      "id": "baloo2_bold",
+      "name": "Baloo 2 Bold",
+      "file": "fonts/Baloo2-Bold.ttf",
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "baloo2_semibold",
+      "name": "Baloo 2 SemiBold",
+      "file": "fonts/Baloo2-SemiBold.ttf",
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "bungee_regular",
+      "name": "Bungee",
+      "file": "fonts/Bungee-Regular.ttf",
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "fredoka_bold",
+      "name": "Fredoka Bold",
+      "file": "fonts/Fredoka-Bold.ttf",
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "fredoka_semibold",
+      "name": "Fredoka SemiBold",
+      "file": "fonts/Fredoka-SemiBold.ttf",
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "pacifico_regular",
+      "name": "Pacifico",
+      "file": "fonts/Pacifico-Regular.ttf",
+      "checksum": "REPLACE_WITH_SHA256"
+    }
+  ]
   },
   "combos": [
     {
