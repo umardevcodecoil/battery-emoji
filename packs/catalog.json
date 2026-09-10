@@ -45,7 +45,7 @@
   ],
   "emojis": [
     {
-      "id": "panda",
+      "id": "animal_1_emoji",
       "name": "Panda",
       "categoryId": "animals",
       "file": "emojis/Animals/animal_1_emoji.png",
@@ -54,7 +54,7 @@
   ],
   "batteryIcons": [
     {
-      "id": "classic_green",
+      "id": "animal_1_battery",
       "name": "Classic Green",
       "categoryId": "animals",
       "file": "battery/Animals/animal_1_battery.png",
@@ -584,12 +584,12 @@
   },
   "combos": [
     {
-      "id": "combo_panda_classic_animals",
+      "id": "animal_1_combo",
       "name": "Happy Panda",
       "categoryId": "animals",
       "previewFile": "combos/Animals/animal_1_combo.png",
-      "emojiId": "panda",
-      "batteryIconId": "classic_green",
+      "emojiId": "animal_1_emoji",
+      "batteryIconId": "animal_1_battery",
       "isDefault": true,
       "isPremium": false
     },
