@@ -431,7 +431,7 @@
         "name": "Hotspot 5",
         "file": "hotspot/hotspot_5.svg",
         "checksum": "REPLACE_WITH_SHA256"
-      } ,
+      },
       {
         "id": "hotspot_6",
         "name": "Hotspot 6",
@@ -496,43 +496,91 @@
       }
     ],
     "fonts": [
-    {
-      "id": "baloo2_bold",
-      "name": "Baloo 2 Bold",
-      "file": "fonts/Baloo2-Bold.ttf",
-      "checksum": "REPLACE_WITH_SHA256"
-    },
-    {
-      "id": "baloo2_semibold",
-      "name": "Baloo 2 SemiBold",
-      "file": "fonts/Baloo2-SemiBold.ttf",
-      "checksum": "REPLACE_WITH_SHA256"
-    },
-    {
-      "id": "bungee_regular",
-      "name": "Bungee",
-      "file": "fonts/Bungee-Regular.ttf",
-      "checksum": "REPLACE_WITH_SHA256"
-    },
-    {
-      "id": "fredoka_bold",
-      "name": "Fredoka Bold",
-      "file": "fonts/Fredoka-Bold.ttf",
-      "checksum": "REPLACE_WITH_SHA256"
-    },
-    {
-      "id": "fredoka_semibold",
-      "name": "Fredoka SemiBold",
-      "file": "fonts/Fredoka-SemiBold.ttf",
-      "checksum": "REPLACE_WITH_SHA256"
-    },
-    {
-      "id": "pacifico_regular",
-      "name": "Pacifico",
-      "file": "fonts/Pacifico-Regular.ttf",
-      "checksum": "REPLACE_WITH_SHA256"
-    }
-  ]
+      {
+        "id": "baloo2_bold",
+        "name": "Baloo 2 Bold",
+        "file": "fonts/Baloo2-Bold.ttf",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "baloo2_semibold",
+        "name": "Baloo 2 SemiBold",
+        "file": "fonts/Baloo2-SemiBold.ttf",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "bungee_regular",
+        "name": "Bungee",
+        "file": "fonts/Bungee-Regular.ttf",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "fascinate_regular",
+        "name": "Fascinate",
+        "file": "fonts/Fascinate-Regular.ttf",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "fredoka_bold",
+        "name": "Fredoka Bold",
+        "file": "fonts/Fredoka-Bold.ttf",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "fredoka_semibold",
+        "name": "Fredoka SemiBold",
+        "file": "fonts/Fredoka-SemiBold.ttf",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "nicomoji_regular",
+        "name": "NicoMoji",
+        "file": "fonts/NicoMoji-Regular.ttf",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "pacifico_regular",
+        "name": "Pacifico",
+        "file": "fonts/Pacifico-Regular.ttf",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "parisienne_regular",
+        "name": "Parisienne",
+        "file": "fonts/Parisienne-Regular.ttf",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "plaster_regular",
+        "name": "Plaster",
+        "file": "fonts/Plaster-Regular.ttf",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "poetsenone_regular",
+        "name": "Poetsen One",
+        "file": "fonts/PoetsenOne-Regular.ttf",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "pressstart2p_regular",
+        "name": "Press Start 2P",
+        "file": "fonts/PressStart2P-Regular.ttf",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "specialgothicexpandedone_regular",
+        "name": "Special Gothic Expanded One",
+        "file": "fonts/SpecialGothicExpandedOne-Regular.ttf",
+        "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "porter_sans_inline_block",
+        "name": "Porter Sans Inline Block",
+        "file": "fonts/porter-sans-inline-block.ttf",
+        "checksum": "REPLACE_WITH_SHA256"
+      }
+    ]
   },
   "combos": [
     {
@@ -644,8 +692,8 @@
       "previewFile": "template_previews/template1.png",
       "comboId": "combo_panda_classic_animals",
       "backgroundId": "theme1_bg",
-      "themeColor": "#E8368F",
-      "timeFont": "poppins_bold",
+      "themeColor": "#F3378C",
+      "timeFont": "poetsenone_regular",
       "wifiIconId": "wifi_2",
       "signalIconId": "signal_3",
       "airplaneIconId": "airplane_2",
@@ -662,8 +710,8 @@
       "previewFile": "template_previews/template2.png",
       "comboId": "combo_panda_classic_animals",
       "backgroundId": "theme2_bg",
-      "themeColor": "#E8368F",
-      "timeFont": "poppins_bold",
+      "themeColor": "#FF8400",
+      "timeFont": "plaster_regular",
       "wifiIconId": "wifi_1",
       "signalIconId": "signal_2",
       "airplaneIconId": "airplane_3",
@@ -680,8 +728,8 @@
       "previewFile": "template_previews/template3.png",
       "comboId": "combo_panda_classic_animals",
       "backgroundId": "theme3_bg",
-      "themeColor": "#E8368F",
-      "timeFont": "poppins_bold",
+      "themeColor": "#F8D47A",
+      "timeFont": "pressstart2p_regular",
       "wifiIconId": "wifi_3",
       "signalIconId": "signal_6",
       "airplaneIconId": "airplane_5",
@@ -698,8 +746,8 @@
       "previewFile": "template_previews/template4.png",
       "comboId": "combo_panda_classic_animals",
       "backgroundId": "bg_4",
-      "themeColor": "#E8368F",
-      "timeFont": "poppins_bold",
+      "themeColor": "#24A500",
+      "timeFont": "fascinate_regular",
       "wifiIconId": "wifi_8",
       "signalIconId": "signal_1",
       "airplaneIconId": "airplane_1",
@@ -716,8 +764,8 @@
       "previewFile": "template_previews/template5.png",
       "comboId": "combo_panda_classic_animals",
       "backgroundId": "theme5_bg",
-      "themeColor": "#E8368F",
-      "timeFont": "poppins_bold",
+      "themeColor": "#CF800A",
+      "timeFont": "specialgothicexpandedone_regular",
       "wifiIconId": "wifi_2",
       "signalIconId": "signal_3",
       "airplaneIconId": "airplane_2",
@@ -734,8 +782,8 @@
       "previewFile": "template_previews/template6.png",
       "comboId": "combo_panda_classic_animals",
       "backgroundId": "bg_6",
-      "themeColor": "#E8368F",
-      "timeFont": "poppins_bold",
+      "themeColor": "#50900A",
+      "timeFont": "porter_sans_inline_block",
       "wifiIconId": "wifi_5",
       "signalIconId": "signal_7",
       "airplaneIconId": "airplane_8",
@@ -752,8 +800,8 @@
       "previewFile": "template_previews/template7.png",
       "comboId": "combo_panda_classic_animals",
       "backgroundId": "theme7_bg",
-      "themeColor": "#E8368F",
-      "timeFont": "poppins_bold",
+      "themeColor": "#FF0073",
+      "timeFont": "poetsenone_regular",
       "wifiIconId": "wifi_4",
       "signalIconId": "signal_6",
       "airplaneIconId": "airplane_3",
@@ -770,8 +818,8 @@
       "previewFile": "template_previews/template8.png",
       "comboId": "combo_panda_classic_animals",
       "backgroundId": "theme8_bg",
-      "themeColor": "#E8368F",
-      "timeFont": "poppins_bold",
+      "themeColor": "#B46414",
+      "timeFont": "parisienne_regular",
       "wifiIconId": "wifi_5",
       "signalIconId": "signal_4",
       "airplaneIconId": "airplane_2",
@@ -788,8 +836,8 @@
       "previewFile": "template_previews/template9.png",
       "comboId": "combo_panda_classic_animals",
       "backgroundId": "theme9_bg",
-      "themeColor": "#E8368F",
-      "timeFont": "poppins_bold",
+      "themeColor": "#2780DD",
+      "timeFont": "porter_sans_inline_block",
       "wifiIconId": "wifi_2",
       "signalIconId": "signal_4",
       "airplaneIconId": "airplane_9",
@@ -806,8 +854,8 @@
       "previewFile": "template_previews/template10.png",
       "comboId": "combo_panda_classic_animals",
       "backgroundId": "theme10_bg",
-      "themeColor": "#E8368F",
-      "timeFont": "poppins_bold",
+      "themeColor": "#BB00FF",
+      "timeFont": "poetsenone_regular",
       "wifiIconId": "wifi_4",
       "signalIconId": "signal_4",
       "airplaneIconId": "airplane_1",
@@ -824,8 +872,8 @@
       "previewFile": "template_previews/template11.png",
       "comboId": "combo_panda_classic_animals",
       "backgroundId": "theme11_bg",
-      "themeColor": "#E8368F",
-      "timeFont": "poppins_bold",
+      "themeColor": "#3D84F5",
+      "timeFont": "nicomoji_regular",
       "wifiIconId": "wifi_6",
       "signalIconId": "signal_1",
       "airplaneIconId": "airplane_2",
