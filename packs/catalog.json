@@ -719,7 +719,7 @@
       "hotspotIconId": "hotspot_5",
       "chargingIconId": "charging_7",
       "isDefault": false,
-      "isPremium": true
+      "isPremium": false
     },
     {
       "id": "template_3",
@@ -737,7 +737,7 @@
       "hotspotIconId": "hotspot_5",
       "chargingIconId": "charging_5",
       "isDefault": false,
-      "isPremium": true
+      "isPremium": false
     },
     {
       "id": "template_4",
@@ -755,7 +755,7 @@
       "hotspotIconId": "hotspot_2",
       "chargingIconId": "charging_3",
       "isDefault": false,
-      "isPremium": true
+      "isPremium": false
     },
     {
       "id": "template_5",
@@ -773,7 +773,7 @@
       "hotspotIconId": "hotspot_6",
       "chargingIconId": "charging_6",
       "isDefault": false,
-      "isPremium": true
+      "isPremium": false
     },
     {
       "id": "template_6",
@@ -791,7 +791,7 @@
       "hotspotIconId": "hotspot_1",
       "chargingIconId": "charging_1",
       "isDefault": false,
-      "isPremium": true
+      "isPremium": false
     },
     {
       "id": "template_7",
@@ -809,7 +809,7 @@
       "hotspotIconId": "hotspot_6",
       "chargingIconId": "charging_6",
       "isDefault": false,
-      "isPremium": true
+      "isPremium": false
     },
     {
       "id": "template_8",
@@ -827,7 +827,7 @@
       "hotspotIconId": "hotspot_7",
       "chargingIconId": "charging_2",
       "isDefault": false,
-      "isPremium": true
+      "isPremium": false
     },
     {
       "id": "template_9",
@@ -863,7 +863,7 @@
       "hotspotIconId": "hotspot_1",
       "chargingIconId": "charging_1",
       "isDefault": false,
-      "isPremium": true
+      "isPremium": false
     },
     {
       "id": "template_11",
@@ -881,7 +881,7 @@
       "hotspotIconId": "hotspot_2",
       "chargingIconId": "charging_2",
       "isDefault": false,
-      "isPremium": true
+      "isPremium": false
     }
   ]
 }
