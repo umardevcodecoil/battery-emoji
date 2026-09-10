@@ -701,7 +701,7 @@
       "hotspotIconId": "hotspot_6",
       "chargingIconId": "charging_6",
       "isDefault": false,
-      "isPremium": true
+      "isPremium": false
     },
     {
       "id": "template_2",
