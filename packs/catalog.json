@@ -138,6 +138,7 @@
       "id": "animal_1_battery",
       "name": "Classic Green",
       "categoryId": "animals",
+      "orientation": "verical",
       "file": "battery/Animals/animal_1_battery.lottie",
       "checksum": "REPLACE_WITH_SHA256"
     },
@@ -145,6 +146,7 @@
       "id": "animal_2_battery",
       "name": "Classic Green",
       "categoryId": "animals",
+       "orientation": "verical",
       "file": "battery/Animals/animal_2_battery.lottie",
       "checksum": "REPLACE_WITH_SHA256"
     },
@@ -152,6 +154,7 @@
       "id": "animal_3_battery",
       "name": "Classic Green",
       "categoryId": "animals",
+      "orientation": "horizontal",
       "file": "battery/Animals/animal_3_battery.lottie",
       "checksum": "REPLACE_WITH_SHA256"
     }
