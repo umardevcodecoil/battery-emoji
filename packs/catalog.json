@@ -56,7 +56,7 @@
       "id": "animal_2_emoji",
       "name": "Panda",
       "categoryId": "animals",
-      "file": "emojis/Animals/animal_1_emoji.png",
+      "file": "emojis/Animals/animal_2_emoji.png",
       "position": "top",
       "checksum": "REPLACE_WITH_SHA256"
     },
@@ -64,7 +64,7 @@
       "id": "animal_3_emoji",
       "name": "Panda",
       "categoryId": "animals",
-      "file": "emojis/Animals/animal_1_emoji.png",
+      "file": "emojis/Animals/animal_3_emoji.png",
       "position": "top",
       "checksum": "REPLACE_WITH_SHA256"
     },
@@ -72,7 +72,7 @@
       "id": "animal_4_emoji",
       "name": "Panda",
       "categoryId": "animals",
-      "file": "emojis/Animals/animal_1_emoji.png",
+      "file": "emojis/Animals/animal_4_emoji.png",
       "position": "top",
       "checksum": "REPLACE_WITH_SHA256"
     },
@@ -80,7 +80,7 @@
       "id": "animal_5_emoji",
       "name": "Panda",
       "categoryId": "animals",
-      "file": "emojis/Animals/animal_1_emoji.png",
+      "file": "emojis/Animals/animal_5_emoji.png",
       "position": "top",
       "checksum": "REPLACE_WITH_SHA256"
     },
@@ -88,7 +88,7 @@
       "id": "animal_6_emoji",
       "name": "Panda",
       "categoryId": "animals",
-      "file": "emojis/Animals/animal_1_emoji.png",
+      "file": "emojis/Animals/animal_6_emoji.png",
       "position": "top",
       "checksum": "REPLACE_WITH_SHA256"
     },
@@ -96,7 +96,7 @@
       "id": "animal_7_emoji",
       "name": "Panda",
       "categoryId": "animals",
-      "file": "emojis/Animals/animal_1_emoji.png",
+      "file": "emojis/Animals/animal_7_emoji.png",
       "position": "top",
       "checksum": "REPLACE_WITH_SHA256"
     },
@@ -104,7 +104,7 @@
       "id": "animal_8_emoji",
       "name": "Panda",
       "categoryId": "animals",
-      "file": "emojis/Animals/animal_1_emoji.png",
+      "file": "emojis/Animals/animal_8_emoji.png",
       "position": "top",
       "checksum": "REPLACE_WITH_SHA256"
     },
@@ -112,7 +112,7 @@
       "id": "animal_9_emoji",
       "name": "Panda",
       "categoryId": "animals",
-      "file": "emojis/Animals/animal_1_emoji.png",
+      "file": "emojis/Animals/animal_9_emoji.png",
       "position": "top",
       "checksum": "REPLACE_WITH_SHA256"
     },
@@ -120,12 +120,12 @@
       "id": "animal_10_emoji",
       "name": "Panda",
       "categoryId": "animals",
-      "file": "emojis/Animals/animal_1_emoji.png",
+      "file": "emojis/Animals/animal_10_emoji.png",
       "position": "top",
       "checksum": "REPLACE_WITH_SHA256"
     },
      {
-      "id": "animal_10_emoji",
+      "id": "animal_11_emoji",
       "name": "Panda",
       "categoryId": "animals",
       "file": "emojis/Animals/animal_11_emoji.png",
@@ -777,7 +777,7 @@
       "name": "Template 1",
       "categoryId": "animals",
       "previewFile": "template_previews/template1.png",
-      "comboId": "combo_panda_classic_animals",
+      "comboId": "animal_1_combo",
       "backgroundId": "theme1_bg",
       "themeColor": "#F3378C",
       "timeFont": "poetsenone_regular",
