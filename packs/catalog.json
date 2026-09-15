@@ -976,16 +976,16 @@
   ],
    "pets": [
     {
-      "id": "cat_pet",
+      "id": "pet_1",
       "name": "Cat",
       "categoryId": "animals",
       "states": {
-        "idle": "pets/Animals/idle.lottie",
-        "walking": "pets/Animals/walk.lottie",
-        "happy": "pets/Animals/happy.lottie",
-        "climbing": "pets/Animals/climbing.lottie",
-        "falling": "pets/Animals/falling.lottie",
-        "cieling": "pets/Animals/cieling.lottie"
+        "idle": "pets/Animals/pet_1/idle.lottie",
+        "walking": "pets/Animals/pet_1/walk.lottie",
+        "happy": "pets/Animals/pet_1/happy.lottie",
+        "climbing": "pets/Animals/pet_1/climbing.lottie",
+        "falling": "pets/Animals/pet_1/falling.lottie",
+        "cieling": "pets/Animals/pet_1/cieling.lottie"
       },
       "checksums": {
         "idle": "REPLACE_WITH_SHA256",
