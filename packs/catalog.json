@@ -992,7 +992,7 @@
         "walking": "REPLACE_WITH_SHA256",
         "happy": "REPLACE_WITH_SHA256"
       },
-      "isDefault": false,
+      "isDefault": true,
       "isPremium": false
     }
   ]
