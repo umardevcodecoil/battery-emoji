@@ -973,5 +973,27 @@
       "isDefault": false,
       "isPremium": false
     }
+  ],
+   "pets": [
+    {
+      "id": "cat_pet",
+      "name": "Cat",
+      "categoryId": "animals",
+      "states": {
+        "idle": "pets/Animals/idle.lottie",
+        "walking": "pets/Animals/walk.lottie",
+        "happy": "pets/Animals/happy.lottie",
+        "climbing": "pets/Animals/climbing.lottie",
+        "falling": "pets/Animals/falling.lottie",
+        "cieling": "pets/Animals/cieling.lottie"
+      },
+      "checksums": {
+        "idle": "REPLACE_WITH_SHA256",
+        "walking": "REPLACE_WITH_SHA256",
+        "happy": "REPLACE_WITH_SHA256"
+      },
+      "isDefault": false,
+      "isPremium": false
+    }
   ]
 }
