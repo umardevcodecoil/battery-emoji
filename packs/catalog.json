@@ -705,7 +705,7 @@
       "emojiId": "panda",
       "batteryIconId": "classic_green",
       "isDefault": false,
-      "isPremium": false
+      "isPremium": true
     },
     {
       "id": "combo_panda_classic_cute",
@@ -715,7 +715,7 @@
       "emojiId": "panda",
       "batteryIconId": "classic_green",
       "isDefault": false,
-      "isPremium": false
+      "isPremium": true
     },
     {
       "id": "combo_panda_classic_fantasy",
@@ -725,7 +725,7 @@
       "emojiId": "panda",
       "batteryIconId": "classic_green",
       "isDefault": false,
-      "isPremium": false
+      "isPremium": true
     },
     {
       "id": "combo_panda_classic_nature",
@@ -735,7 +735,7 @@
       "emojiId": "panda",
       "batteryIconId": "classic_green",
       "isDefault": false,
-      "isPremium": false
+      "isPremium": true
     },
     {
       "id": "combo_panda_classic_food",
@@ -745,7 +745,7 @@
       "emojiId": "panda",
       "batteryIconId": "classic_green",
       "isDefault": false,
-      "isPremium": false
+      "isPremium": true
     },
     {
       "id": "combo_panda_classic_seasonal",
@@ -755,7 +755,7 @@
       "emojiId": "panda",
       "batteryIconId": "classic_green",
       "isDefault": false,
-      "isPremium": false
+      "isPremium": true
     },
     {
       "id": "combo_panda_classic_mood",
@@ -775,7 +775,7 @@
       "emojiId": "panda",
       "batteryIconId": "classic_green",
       "isDefault": false,
-      "isPremium": false
+      "isPremium": true
     },
     {
       "id": "combo_panda_classic_funny",
@@ -785,7 +785,7 @@
       "emojiId": "panda",
       "batteryIconId": "classic_green",
       "isDefault": false,
-      "isPremium": false
+      "isPremium": true
     }
   ],
   "templates": [
