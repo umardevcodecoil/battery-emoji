@@ -50,7 +50,7 @@
       "categoryId": "animals",
       "file": "emojis/Animals/animal_1_emoji.png",
       "position": "top",
-      "isPremium": "true",
+      "isPremium": true,
       "checksum": "REPLACE_WITH_SHA256"
     },
      {
@@ -59,7 +59,7 @@
       "categoryId": "animals",
       "file": "emojis/Animals/animal_2_emoji.png",
       "position": "top",
-      "isPremium": "true",
+      "isPremium": true,
       "checksum": "REPLACE_WITH_SHA256"
     },
      {
@@ -68,7 +68,7 @@
       "categoryId": "animals",
       "file": "emojis/Animals/animal_3_emoji.png",
       "position": "top",
-        "isPremium": "true",
+      "isPremium": true,
       "checksum": "REPLACE_WITH_SHA256"
     },
      {
@@ -77,7 +77,7 @@
       "categoryId": "animals",
       "file": "emojis/Animals/animal_4_emoji.png",
       "position": "top",
-        "isPremium": "true",
+      "isPremium": true,
       "checksum": "REPLACE_WITH_SHA256"
     },
      {
@@ -86,7 +86,7 @@
       "categoryId": "animals",
       "file": "emojis/Animals/animal_5_emoji.png",
       "position": "top",
-        "isPremium": "true",
+      "isPremium": true,
       "checksum": "REPLACE_WITH_SHA256"
     },
      {
@@ -95,7 +95,7 @@
       "categoryId": "animals",
       "file": "emojis/Animals/animal_6_emoji.png",
       "position": "top",
-        "isPremium": "true",
+      "isPremium": true,
       "checksum": "REPLACE_WITH_SHA256"
     },
      {
@@ -104,7 +104,7 @@
       "categoryId": "animals",
       "file": "emojis/Animals/animal_7_emoji.png",
       "position": "top",
-        "isPremium": "true",
+      "isPremium": true,
       "checksum": "REPLACE_WITH_SHA256"
     },
      {
@@ -113,7 +113,7 @@
       "categoryId": "animals",
       "file": "emojis/Animals/animal_8_emoji.png",
       "position": "top",
-        "isPremium": "true",
+      "isPremium": true,
       "checksum": "REPLACE_WITH_SHA256"
     },
      {
@@ -122,7 +122,7 @@
       "categoryId": "animals",
       "file": "emojis/Animals/animal_9_emoji.png",
       "position": "top",
-        "isPremium": "true",
+      "isPremium": true,
       "checksum": "REPLACE_WITH_SHA256"
     },
      {
@@ -131,7 +131,7 @@
       "categoryId": "animals",
       "file": "emojis/Animals/animal_10_emoji.png",
       "position": "top",
-      "isPremium": "true",
+      "isPremium": true,
       "checksum": "REPLACE_WITH_SHA256"
     },
      {
@@ -140,7 +140,7 @@
       "categoryId": "animals",
       "file": "emojis/Animals/animal_11_emoji.png",
       "position": "top",
-        "isPremium": "true",
+      "isPremium": true,
       "checksum": "REPLACE_WITH_SHA256"
     }
   ],
@@ -151,7 +151,7 @@
       "categoryId": "animals",
       "orientation": "vertical",
       "file": "battery/Animals/b_1/",
-      "isPremium": "true",
+      "isPremium": true,
       "checksum": "REPLACE_WITH_SHA256"
     },
      {
@@ -160,7 +160,7 @@
       "categoryId": "animals",
       "orientation": "vertical",
       "file": "battery/Animals/b_2/",
-      "isPremium": "true",
+      "isPremium": true,
       "checksum": "REPLACE_WITH_SHA256"
     },
      {
@@ -169,17 +169,17 @@
       "categoryId": "animals",
       "orientation": "vertical",
       "file": "battery/Animals/b_3/",
-      "isPremium": "true",
+      "isPremium": true,
       "checksum": "REPLACE_WITH_SHA256"
     }
   ],
    "battery_states": {
         "twenty": "twenty.png",
         "zero": "zero.png",
-        "fourty": "fourty.png",
+        "forty": "forty.png",
         "sixty": "sixty.png",
         "eighty": "eighty.png",
-        "hundered": "hundered.png"
+        "hundred": "hundred.png"
       },
   "backgrounds": [
     {
@@ -603,7 +603,7 @@
       {
         "id": "charging_8",
         "name": "Charging 8",
-        "file": "charging/charging_7.svg",
+        "file": "charging/charging_8.svg",
         "checksum": "REPLACE_WITH_SHA256"
       }
     ],
