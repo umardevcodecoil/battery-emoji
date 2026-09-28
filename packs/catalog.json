@@ -1027,6 +1027,246 @@
       },
       "isDefault": true,
       "isPremium": false
+    },
+     {
+      "id": "pet_2",
+      "name": "Loadiing Cat",
+      "categoryId": "animals",
+      "states": {
+        "idle": "pets/Animals/pet_2/idle.lottie",
+        "walking": "pets/Animals/pet_2/idle.lottie",
+        "happy": "pets/Animals/pet_2/idle.lottie",
+        "climbing": "pets/Animals/pet_2/idle.lottie",
+        "falling": "pets/Animals/pet_2/idle.lottie",
+        "cieling": "pets/Animals/pet_2/idle.lottie"
+      },
+      "checksums": {
+        "idle": "REPLACE_WITH_SHA256",
+        "walking": "REPLACE_WITH_SHA256",
+        "happy": "REPLACE_WITH_SHA256"
+      },
+      "isDefault": true,
+      "isPremium": false
+    },
+     {
+      "id": "pet_3",
+      "name": "Black Rainbow Cat",
+      "categoryId": "animals",
+      "states": {
+        "idle": "pets/Animals/pet_3/idle.lottie",
+        "walking": "pets/Animals/pet_3/idle.lottie",
+        "happy": "pets/Animals/pet_3/idle.lottie",
+        "climbing": "pets/Animals/pet_3/idle.lottie",
+        "falling": "pets/Animals/pet_3/idle.lottie",
+        "cieling": "pets/Animals/pet_3/idle.lottie"
+      },
+      "checksums": {
+        "idle": "REPLACE_WITH_SHA256",
+        "walking": "REPLACE_WITH_SHA256",
+        "happy": "REPLACE_WITH_SHA256"
+      },
+      "isDefault": true,
+      "isPremium": false
+    },
+      {
+      "id": "pet_4",
+      "name": "Christmas Cat",
+      "categoryId": "animals",
+      "states": {
+        "idle": "pets/Animals/pet_4/idle.lottie",
+        "walking": "pets/Animals/pet_4/idle.lottie",
+        "happy": "pets/Animals/pet_4/idle.lottie",
+        "climbing": "pets/Animals/pet_4/idle.lottie",
+        "falling": "pets/Animals/pet_4/idle.lottie",
+        "cieling": "pets/Animals/pet_4/idle.lottie"
+      },
+      "checksums": {
+        "idle": "REPLACE_WITH_SHA256",
+        "walking": "REPLACE_WITH_SHA256",
+        "happy": "REPLACE_WITH_SHA256"
+      },
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "pet_5",
+      "name": "Robot",
+      "categoryId": "animals",
+      "states": {
+        "idle": "pets/Animals/pet_5/idle.lottie",
+        "walking": "pets/Animals/pet_5/idle.lottie",
+        "happy": "pets/Animals/pet_5/idle.lottie",
+        "climbing": "pets/Animals/pet_5/idle.lottie",
+        "falling": "pets/Animals/pet_5/idle.lottie",
+        "cieling": "pets/Animals/pet_5/idle.lottie"
+      },
+      "checksums": {
+        "idle": "REPLACE_WITH_SHA256",
+        "walking": "REPLACE_WITH_SHA256",
+        "happy": "REPLACE_WITH_SHA256"
+      },
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "pet_6",
+      "name": "Girl",
+      "categoryId": "animals",
+      "states": {
+        "idle": "pets/Animals/pet_6/idle.lottie",
+        "walking": "pets/Animals/pet_6/idle.lottie",
+        "happy": "pets/Animals/pet_6/idle.lottie",
+        "climbing": "pets/Animals/pet_6/idle.lottie",
+        "falling": "pets/Animals/pet_6/idle.lottie",
+        "cieling": "pets/Animals/pet_6/idle.lottie"
+      },
+      "checksums": {
+        "idle": "REPLACE_WITH_SHA256",
+        "walking": "REPLACE_WITH_SHA256",
+        "happy": "REPLACE_WITH_SHA256"
+      },
+      "isDefault": true,
+      "isPremium": false
+    },
+   {
+      "id": "pet_7",
+      "name": "Dragon",
+      "categoryId": "animals",
+      "states": {
+        "idle": "pets/Animals/pet_7/idle.lottie",
+        "walking": "pets/Animals/pet_7/idle.lottie",
+        "happy": "pets/Animals/pet_7/idle.lottie",
+        "climbing": "pets/Animals/pet_7/idle.lottie",
+        "falling": "pets/Animals/pet_7/idle.lottie",
+        "cieling": "pets/Animals/pet_7/idle.lottie"
+      },
+      "checksums": {
+        "idle": "REPLACE_WITH_SHA256",
+        "walking": "REPLACE_WITH_SHA256",
+        "happy": "REPLACE_WITH_SHA256"
+      },
+      "isDefault": true,
+      "isPremium": false
+    },
+     {
+      "id": "pet_8",
+      "name": "Hug Dog",
+      "categoryId": "animals",
+      "states": {
+        "idle": "pets/Animals/pet_8/idle.lottie",
+        "walking": "pets/Animals/pet_8/idle.lottie",
+        "happy": "pets/Animals/pet_8/idle.lottie",
+        "climbing": "pets/Animals/pet_8/idle.lottie",
+        "falling": "pets/Animals/pet_8/idle.lottie",
+        "cieling": "pets/Animals/pet_8/idle.lottie"
+      },
+      "checksums": {
+        "idle": "REPLACE_WITH_SHA256",
+        "walking": "REPLACE_WITH_SHA256",
+        "happy": "REPLACE_WITH_SHA256"
+      },
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "pet_9",
+      "name": "Bouncing Loader",
+      "categoryId": "animals",
+      "states": {
+        "idle": "pets/Animals/pet_9/idle.lottie",
+        "walking": "pets/Animals/pet_9/idle.lottie",
+        "happy": "pets/Animals/pet_9/idle.lottie",
+        "climbing": "pets/Animals/pet_9/idle.lottie",
+        "falling": "pets/Animals/pet_9/idle.lottie",
+        "cieling": "pets/Animals/pet_9/idle.lottie"
+      },
+      "checksums": {
+        "idle": "REPLACE_WITH_SHA256",
+        "walking": "REPLACE_WITH_SHA256",
+        "happy": "REPLACE_WITH_SHA256"
+      },
+      "isDefault": true,
+      "isPremium": false
+    },
+     {
+      "id": "pet_10",
+      "name": "Scarecrow",
+      "categoryId": "animals",
+      "states": {
+        "idle": "pets/Animals/pet_10/idle.lottie",
+        "walking": "pets/Animals/pet_10/idle.lottie",
+        "happy": "pets/Animals/pet_10/idle.lottie",
+        "climbing": "pets/Animals/pet_10/idle.lottie",
+        "falling": "pets/Animals/pet_10/idle.lottie",
+        "cieling": "pets/Animals/pet_10/idle.lottie"
+      },
+      "checksums": {
+        "idle": "REPLACE_WITH_SHA256",
+        "walking": "REPLACE_WITH_SHA256",
+        "happy": "REPLACE_WITH_SHA256"
+      },
+      "isDefault": true,
+      "isPremium": false
+    },
+     {
+      "id": "pet_11",
+      "name": "Star",
+      "categoryId": "animals",
+      "states": {
+        "idle": "pets/Animals/pet_11/idle.lottie",
+        "walking": "pets/Animals/pet_11/idle.lottie",
+        "happy": "pets/Animals/pet_11/idle.lottie",
+        "climbing": "pets/Animals/pet_11/idle.lottie",
+        "falling": "pets/Animals/pet_11/idle.lottie",
+        "cieling": "pets/Animals/pet_11/idle.lottie"
+      },
+      "checksums": {
+        "idle": "REPLACE_WITH_SHA256",
+        "walking": "REPLACE_WITH_SHA256",
+        "happy": "REPLACE_WITH_SHA256"
+      },
+      "isDefault": true,
+      "isPremium": false
+    },
+     {
+      "id": "pet_12",
+      "name": "Greeting Kon",
+      "categoryId": "animals",
+      "states": {
+        "idle": "pets/Animals/pet_12/idle.lottie",
+        "walking": "pets/Animals/pet_12/idle.lottie",
+        "happy": "pets/Animals/pet_12/idle.lottie",
+        "climbing": "pets/Animals/pet_12/idle.lottie",
+        "falling": "pets/Animals/pet_12/idle.lottie",
+        "cieling": "pets/Animals/pet_12/idle.lottie"
+      },
+      "checksums": {
+        "idle": "REPLACE_WITH_SHA256",
+        "walking": "REPLACE_WITH_SHA256",
+        "happy": "REPLACE_WITH_SHA256"
+      },
+      "isDefault": true,
+      "isPremium": false
+    },
+     {
+      "id": "pet_13",
+      "name": "Owl",
+      "categoryId": "animals",
+      "states": {
+        "idle": "pets/Animals/pet_13/idle.lottie",
+        "walking": "pets/Animals/pet_13/idle.lottie",
+        "happy": "pets/Animals/pet_13/idle.lottie",
+        "climbing": "pets/Animals/pet_13/idle.lottie",
+        "falling": "pets/Animals/pet_13/idle.lottie",
+        "cieling": "pets/Animals/pet_13/idle.lottie"
+      },
+      "checksums": {
+        "idle": "REPLACE_WITH_SHA256",
+        "walking": "REPLACE_WITH_SHA256",
+        "happy": "REPLACE_WITH_SHA256"
+      },
+      "isDefault": true,
+      "isPremium": false
     }
   ]
 }
