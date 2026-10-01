@@ -142,7 +142,610 @@
       "position": "top",
       "isPremium": true,
       "checksum": "REPLACE_WITH_SHA256"
-    }
+    },
+    {
+      "id": "animal_12_emoji",
+      "name": "Panda",
+      "categoryId": "animals",
+      "file": "emojis/Animals/animal_12_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+     {
+      "id": "animal_13_emoji",
+      "name": "Panda",
+      "categoryId": "animals",
+      "file": "emojis/Animals/animal_13_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+    "id": "animal_14_emoji",
+    "name": "Corgi",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_14_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "62b576be0fe0832a3760e74bda5273781602553b711a63458636a0083b5abcbf"
+  },
+    {
+    "id": "animal_15_emoji",
+    "name": "Corgi",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_15_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "62b576be0fe0832a3760e74bda5273781602553b711a63458636a0083b5abcbf"
+  },
+  {
+    "id": "animal_16_emoji",
+    "name": "Corgi",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_16_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "84e42c77362485818c5ad0d4e526c9f9011ed538f7089b00b34977388903a128"
+  },
+  {
+    "id": "animal_17_emoji",
+    "name": "Corgi",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_17_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "f33b73ed0be72d8207a1c8ddb4a0861c7521595c4ab9fb0c78ee06b2698e77b7"
+  },
+  {
+    "id": "animal_18_emoji",
+    "name": "Cat",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_18_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "2ae8f813bb91e8aea90622dfe1caed22735182eba9732e4072d36d724cdc3be0"
+  },
+  {
+    "id": "animal_19_emoji",
+    "name": "Bear",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_19_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "2b558e015be3ebd8240c5875ed31a55781ac55fe6749676575f503ccee8826bd"
+  },
+  {
+    "id": "animal_20_emoji",
+    "name": "Panda",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_20_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "63c0a41b2c794cdac09a8713a58f710fbbc76047fdf1c5c58733a68cccfa5582"
+  },
+  {
+    "id": "animal_21_emoji",
+    "name": "Penguin",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_21_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "7d8253352ab279ec4a356db518a9c1c42b91576114a35618ee813a0cab433871"
+  },
+  {
+    "id": "animal_22_emoji",
+    "name": "Bunny",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_22_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "e74898df3114f80192d3f05f47e67e1de6f7a26287c3c60c86f382f5778deae0"
+  },
+  {
+    "id": "animal_23_emoji",
+    "name": "Corgi",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_23_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "59a46007dcfcf834b6934fa0cf504b82612fea7a0f5d6979bbe823b2c7ebca71"
+  },
+  {
+    "id": "animal_24_emoji",
+    "name": "Frog",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_24_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "08b0fabf0fd04fe700f3767c6674de44b252e257b40c5acc6379226d7d2eb874"
+  },
+  {
+    "id": "animal_25_emoji",
+    "name": "Unicorn",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_25_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "0bd579d6a17359b7ff372b5eaa141114fd8df43b089efba33b8da1473d7eac05"
+  },
+  {
+    "id": "animal_26_emoji",
+    "name": "Panda",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_26_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "37ab1668a9cc80c762817f80c279c70a5fe62f29a5d5458f3044a863da18baf8"
+  },
+  {
+    "id": "animal_27_emoji",
+    "name": "Bear",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_27_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "5e5bf6e71f2389ead922f5cefb68dafb008d1f828bb86463e4729126a736ed0d"
+  },
+  {
+    "id": "animal_28_emoji",
+    "name": "Corgi",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_28_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "9467fa205b8bd2d3d07db6ca579293a82282e9a790d0793ed4bd7a2a2384824d"
+  },
+  {
+    "id": "animal_29_emoji",
+    "name": "Cat",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_29_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "4c139bed9f44f932c389c49d7b2399e1a039e5d59131bbd53aa409876db7ddbb"
+  },
+  {
+    "id": "animal_30_emoji",
+    "name": "Panda",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_30_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "211b4b4d51320224f781a50d3e56108a3c8ce0b858aa66fa96f66628860538c6"
+  },
+  {
+    "id": "animal_31_emoji",
+    "name": "Cat",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_31_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "770f062cf58dfe5550a093c52ac255920565f6ff419916284583eb95dac59585"
+  },
+  {
+    "id": "animal_32_emoji",
+    "name": "Bear",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_32_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "3ffe9a9f1e3584f756438da2e08f52594ce8147c4a5f26aabe5bc986a95f929c"
+  },
+  {
+    "id": "animal_33_emoji",
+    "name": "Bunny",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_33_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "2a72824d6cb523c30ac16bdda20f20a95ed7b7f3cbca24d80079a810f579533e"
+  },
+  {
+    "id": "animal_34_emoji",
+    "name": "Penguin",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_34_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "05cf70ca597707a92fb026249388770758fac9a2a44dfc95c7c3cfe05e0d09bc"
+  },
+  {
+    "id": "animal_35_emoji",
+    "name": "Frog",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_35_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "d823ec5dc767446f708ddb010e85dce4efca5a4a8b4ab88f85c57b62e76c267b"
+  },
+  {
+    "id": "animal_36_emoji",
+    "name": "Unicorn",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_36_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "e3c138a052269595ec4413900a3ebb11c62f9b1ddc68801283cae63c3cff0515"
+  },
+  {
+    "id": "animal_37_emoji",
+    "name": "Corgi",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_37_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "e6af34330d94892dc645f1c41ce8e5cd702c8f6a690624a09af88db973342fda"
+  },
+  {
+    "id": "animal_38_emoji",
+    "name": "Panda",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_38_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "a840597e3bf9dcb304086eaed5365dadf5ee7c0c9683b5e5e2b15c4f66a0e82e"
+  },
+  {
+    "id": "animal_39_emoji",
+    "name": "Bunny",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_39_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "22edf84b6321072d5fa99f7f46b939f2c74b810fb75ff1b6259413900b9f253f"
+  },
+  {
+    "id": "animal_40_emoji",
+    "name": "Cat",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_40_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "31d02700a557624671382b95a5c61eb8850b4e9c6a3b06947fb217579f59e391"
+  },
+  {
+    "id": "animal_41_emoji",
+    "name": "Bear",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_41_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "6a793ab06065dd2260d829098894492d6ccac14f4b0778bfb05413d1a539e188"
+  },
+  {
+    "id": "animal_42_emoji",
+    "name": "Bunny",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_42_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "b3881278b95a7018183fcb92d6a6e8e23149dfae4e326acd4dca99f6e550bf3c"
+  },
+  {
+    "id": "animal_43_emoji",
+    "name": "Unicorn",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_43_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "10948cf2612fb9ead0a516262fd47d9cf94d4c9c31440687e5f4a3774d6be76d"
+  },
+  {
+    "id": "animal_44_emoji",
+    "name": "Bear",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_44_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "b9dc71d828cb4141d14d47d64eb8d457d0b86ff0de8b055f0f5c9d23647e965b"
+  },
+  {
+    "id": "animal_45_emoji",
+    "name": "Cat",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_45_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "a3a0195ff9c9bda83eb151b38cd223ebda746b75ddba7d8e9afce6fa8f3cf352"
+  },
+  {
+    "id": "animal_46_emoji",
+    "name": "Penguin",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_46_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "511fb9faf0ce98ef8a9c8b966fa927060144b8b641f737b467dd762626781ddc"
+  },
+  {
+    "id": "animal_47_emoji",
+    "name": "Corgi",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_47_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "640634cb8e6f9e528803e72c2af175d3bac973bd37fe3d8ecc57a87a539eedbc"
+  },
+  {
+    "id": "animal_48_emoji",
+    "name": "Cat",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_48_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "df0b967ac79a318755f2685772f44b2c529e7fe913f4b60325b93da2def61144"
+  },
+  {
+    "id": "animal_49_emoji",
+    "name": "Panda",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_49_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "90e3e20eec5df5d1657dcafa6003e7ce099a987850efc2e1699911623964a4e9"
+  },
+  {
+    "id": "animal_50_emoji",
+    "name": "Bunny",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_50_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "28b59f43e29b01b756ce5e087a0e0f4f7fad0d18e8d1f1fa0c9973ace7b29c2e"
+  },
+  {
+    "id": "animal_51_emoji",
+    "name": "Cat",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_51_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "8c0eb532b90130747ec6214cc418b25c15aee2d688d6bb9cd722e8fada9ada78"
+  },
+  {
+    "id": "animal_52_emoji",
+    "name": "Bear",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_52_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "658927972f59121e1c169189ed6c347d6e32e891bf1c47a25e91333db1c6a855"
+  },
+  {
+    "id": "animal_53_emoji",
+    "name": "Frog",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_53_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "9bdf932e138ad2dabdd9710259151a43d6ef59dbf0c79b31f09b813836f11462"
+  },
+  {
+    "id": "animal_54_emoji",
+    "name": "Unicorn",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_54_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "c3a5ac3711c6ac8cfabdeffc6dec7d8430262823b67e3435eb160c2263f698e4"
+  },
+  {
+    "id": "animal_55_emoji",
+    "name": "Bunny",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_55_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "6307850f5b583488156f88665792a8251b0e977f08a7189af8b58748fcbdf3a9"
+  },
+  {
+    "id": "animal_56_emoji",
+    "name": "Corgi",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_56_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "286c179f62a91292432d0c562f1322e3f3d68e554801e92e9ce2ca54c9d472f0"
+  },
+  {
+    "id": "animal_57_emoji",
+    "name": "Panda",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_57_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "4ea7df846ea410e24ca36b596bed6614fc2da99e217256038534a7f7afc91d57"
+  },
+  {
+    "id": "animal_58_emoji",
+    "name": "Penguin",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_58_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "2061e9b8f844053d2361ca48e8b200e2ae1e6a137d384c7976e86c54301070f7"
+  },
+  {
+    "id": "animal_59_emoji",
+    "name": "Bunny",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_59_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "54522a6406f6ff7b2332b7f358e7d2588a080c971ced0615525258f9e01ad301"
+  },
+  {
+    "id": "animal_60_emoji",
+    "name": "Corgi",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_60_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "4e0d7e0e6651100d5355eeecfd4c74943fa0b6ab3384787ff289c3a02fb06505"
+  },
+  {
+    "id": "animal_61_emoji",
+    "name": "Cat",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_61_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "3fba6cf0e7d1a193f651f4a5969c9e7e6b15ca9bb86e65da19b3c161b6e96307"
+  },
+  {
+    "id": "animal_62_emoji",
+    "name": "Corgi",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_62_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "acaba652bfaff89838ede401cf0a902d868943c432cba0d8c4fd3c4d87ff7d01"
+  },
+  {
+    "id": "animal_63_emoji",
+    "name": "Bunny",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_63_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "abfffb417851d86943c32a048675e0550ef0db649b7f61683a2d5f1cbbebd387"
+  },
+  {
+    "id": "animal_64_emoji",
+    "name": "Corgi",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_64_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "7b2f0d4dba5b26d00bd0e4c38527a4139fa532fb207ca1854c682d931cab69c5"
+  },
+  {
+    "id": "animal_65_emoji",
+    "name": "Bear",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_65_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "37df9bcdbd67f3e7bbd4b765345b28946fcd8282e67949d9c3876e967e10e3ad"
+  },
+  {
+    "id": "animal_66_emoji",
+    "name": "Unicorn",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_66_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "78ef2e7badab1bfd2f386df978ef644436333ce274c331720f12da2884142814"
+  },
+  {
+    "id": "animal_67_emoji",
+    "name": "Bunny",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_67_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "e0ec5bf9fd039e0c4b62f049b557256963fe261c02aee3508dd5a166e67b510f"
+  },
+  {
+    "id": "animal_68_emoji",
+    "name": "Corgi",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_68_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "8c617adb981c5fe90388701234a74b9cfe3bac925550d82df26c7109d8e61721"
+  },
+  {
+    "id": "animal_69_emoji",
+    "name": "Panda",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_69_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "b8facaf70023947162cc3f8b1c6caa64ebe31269eb929c96a42ac70221e58de8"
+  },
+  {
+    "id": "animal_70_emoji",
+    "name": "Bear",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_70_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "d987390edb0e4905b5468cee06630cd4cd105750aaf5cfc4657ff55373201bad"
+  },
+  {
+    "id": "animal_71_emoji",
+    "name": "Cat",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_71_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "f40e4070388f16954d784bf01864db5bd1e74baff8335bc5f078a915fc0feb14"
+  },
+  {
+    "id": "animal_72_emoji",
+    "name": "Penguin",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_72_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "7c60dba53c115a43e6ac3094261bd4ab70817874935b3937ebc4b4d213c3d8e6"
+  },
+  {
+    "id": "animal_73_emoji",
+    "name": "Bunny",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_73_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "b1bf6bc41af2142883264d274e85ce0e9112bf7f360d25c07eb4fc79a0cf596b"
+  },
+  {
+    "id": "animal_74_emoji",
+    "name": "Cat",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_74_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "8b1343413a48bfc168d7ed8a4f37478b1b986af388ae587a483f953db33dcab8"
+  },
+  {
+    "id": "animal_75_emoji",
+    "name": "Bear",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_75_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "5789df7c65f8e5364cea08c2ade723126fa681f2db4ff591208a327284c656b7"
+  },
+  {
+    "id": "animal_76_emoji",
+    "name": "Bunny",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_76_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "f781c6eb929441eba4586ed2ea00b92bcba823664dceecad07f1e99917e603b6"
+  },
+  {
+    "id": "animal_77_emoji",
+    "name": "Cat",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_77_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "1c926cb59af92115139624b4d652573563bdcf9086fa1d0f6df8bed4d618ce0b"
+  },
+  {
+    "id": "animal_78_emoji",
+    "name": "Unicorn",
+    "categoryId": "animals",
+    "file": "emojis/Animals/animal_78_emoji.png",
+    "position": "top",
+    "isPremium": true,
+    "checksum": "8fba3d85f7d9b7374dff1178abcac2499522bfee8e71427d3296bee4649be0ee"
+  }
   ],
   "batteryIcons": [
     {
