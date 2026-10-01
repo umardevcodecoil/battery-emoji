@@ -50,7 +50,7 @@
       "categoryId": "animals",
       "file": "emojis/Animals/animal_1_emoji.png",
       "position": "top",
-      "isPremium": true,
+      "isPremium": false,
       "checksum": "REPLACE_WITH_SHA256"
     },
      {
@@ -754,7 +754,7 @@
       "categoryId": "animals",
       "orientation": "vertical",
       "file": "battery/Animals/b_1/",
-      "isPremium": true,
+      "isPremium": false,
       "checksum": "REPLACE_WITH_SHA256"
     },
      {
