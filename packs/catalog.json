@@ -1838,6 +1838,120 @@
         "name": "Charging 8",
         "file": "charging/charging_8.svg",
         "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "charging_8",
+        "name": "Charging 8",
+        "file": "charging/charging_8.svg",
+        "checksum": "53730796dd8f6bee72a4ff0e6f40500d84d234fc98bc1a1ab52d65c9c2ff4d68"
+      },
+      {
+        "id": "charging_9",
+        "name": "Charging 9",
+        "file": "charging/charging_9.svg",
+        "checksum": "a046c2004adbb689e81c4727d94701e1c8941b067c6d182fe7e35ab584b3b486"
+      },
+      {
+        "id": "charging_10",
+        "name": "Charging 10",
+        "file": "charging/charging_10.svg",
+        "checksum": "1da6408ba6f75fc903569d367e31a15d862c0acec412061b31e9fe2950d78063"
+      },
+      {
+        "id": "charging_11",
+        "name": "Charging 11",
+        "file": "charging/charging_11.svg",
+        "checksum": "6ec9ff85bb4b64ee1164aa2b061d1e41242d1d00b9f08d6efdc788df26be2942"
+      },
+      {
+        "id": "charging_12",
+        "name": "Charging 12",
+        "file": "charging/charging_12.svg",
+        "checksum": "e13cefe7a37bf40ddbfdafc09b6555bf7e7cdf857e4a7fbb8f30f34fb8013a05"
+      },
+      {
+        "id": "charging_13",
+        "name": "Charging 13",
+        "file": "charging/charging_13.svg",
+        "checksum": "f20eab5cfb505db750bca01bd7394f125159a4a4b32e7e722bd2e0ebebfac77d"
+      },
+      {
+        "id": "charging_14",
+        "name": "Charging 14",
+        "file": "charging/charging_14.svg",
+        "checksum": "144b17fd26ab0507f45bdd44af3cca5f0a4b0b74a3e410cb51105860b5b6f302"
+      },
+      {
+        "id": "charging_15",
+        "name": "Charging 15",
+        "file": "charging/charging_15.svg",
+        "checksum": "950de95238fa52ec219510b434895f864b67813ee2d4c067bd5c5f857b1c99cd"
+      },
+      {
+        "id": "charging_16",
+        "name": "Charging 16",
+        "file": "charging/charging_16.svg",
+        "checksum": "d70dc36e7ab4d060d2713c11369be1e316bc7860a0d0319ac5089fccf759e665"
+      },
+      {
+        "id": "charging_17",
+        "name": "Charging 17",
+        "file": "charging/charging_17.svg",
+        "checksum": "2b3cc1c374f009800fe33864f76248a8265f6a00e32da72c99d774b8abcdb768"
+      },
+      {
+        "id": "charging_18",
+        "name": "Charging 18",
+        "file": "charging/charging_18.svg",
+        "checksum": "719af661f74159761b475fecdb530683f90fb57c1c764cc8f8e98d0aaeb1dc8f"
+      },
+      {
+        "id": "charging_19",
+        "name": "Charging 19",
+        "file": "charging/charging_19.svg",
+        "checksum": "61aab717b43720a5b27214329bf365d0e5e274fa0b2a233dbaa8b7d34cbfb7cb"
+      },
+      {
+        "id": "charging_20",
+        "name": "Charging 20",
+        "file": "charging/charging_20.svg",
+        "checksum": "a28080f3b8a8599de51743a62c42008b5e8507f030164500490163d07cb4f36a"
+      },
+      {
+        "id": "charging_21",
+        "name": "Charging 21",
+        "file": "charging/charging_21.svg",
+        "checksum": "13ff62e9bd1166b1550b96e041ceadfc0a767938fdde0a51d06a7b06fc9f8e85"
+      },
+      {
+        "id": "charging_22",
+        "name": "Charging 22",
+        "file": "charging/charging_22.svg",
+        "checksum": "09ab9439694787fb855c9ad95ad9ddf7bfb56a7c748b74c15d911b857277e66c"
+      },
+      {
+        "id": "charging_23",
+        "name": "Charging 23",
+        "file": "charging/charging_23.svg",
+        "checksum": "ef9919d6a25cbc256e09c784eec282906b6939c69da3fd11d07c1c18eafeb6de"
+      },
+      {
+        "id": "charging_24",
+        "name": "Charging 24",
+        "file": "charging/charging_24.svg",
+        "checksum": "3a93ecf594dab27cf04146333bd59d5179322ad61faa9ed82b23fc4c03881dc5"
+      },
+      {
+        "id": "charging_25",
+        "name": "Charging 25",
+        "file": "charging/charging_25.svg",
+        "checksum": "1de89e586e737970c2d967e0cc7a4347a6160b5fb47c93cb8a0bee24600d941b"
+      },
+      {
+        "id": "charging_26",
+        "name": "Charging 26",
+        "file": "charging/charging_26.svg",
+        "checksum": "0f609636babef14ea87c1beb576baedc4e9827df781e7727aa34ee3ec24b6d09"
       }
     ],
     "fonts": [
