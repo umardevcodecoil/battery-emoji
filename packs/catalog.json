@@ -1540,6 +1540,120 @@
         "name": "Ringer 11",
         "file": "ringer/ringer_11.svg",
         "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "ringer_12",
+        "name": "Ringer 12",
+        "file": "ringer/ringer_12.svg",
+        "checksum": "aa97f1314e09f3f431000b20b4d3ac6bdf00b70cd73e693b675fd3278e119104"
+      },
+      {
+        "id": "ringer_13",
+        "name": "Ringer 13",
+        "file": "ringer/ringer_13.svg",
+        "checksum": "f8d3c6edf64903d3d72de6572d7591dbdb40156f9a1fbbeb9617b1daa34f18c4"
+      },
+      {
+        "id": "ringer_14",
+        "name": "Ringer 14",
+        "file": "ringer/ringer_14.svg",
+        "checksum": "55c3c69c9d966c2346d7f38bc62bbde5928b1491783b11b5ecbd178f85f1b865"
+      },
+      {
+        "id": "ringer_15",
+        "name": "Ringer 15",
+        "file": "ringer/ringer_15.svg",
+        "checksum": "39b7e511fb70d8ed1b5554487cc0b91bcd35ec4d7da1ae364cecff5007e8f312"
+      },
+      {
+        "id": "ringer_16",
+        "name": "Ringer 16",
+        "file": "ringer/ringer_16.svg",
+        "checksum": "301a64172418596aa632b6fb83625cd2cccb20b286d951b405e85c8cc338cb37"
+      },
+      {
+        "id": "ringer_17",
+        "name": "Ringer 17",
+        "file": "ringer/ringer_17.svg",
+        "checksum": "9c0fc5e9a42ab3d3bc3611743b60a6d80ef728bb282ab83f6a6d3247fbb79417"
+      },
+      {
+        "id": "ringer_18",
+        "name": "Ringer 18",
+        "file": "ringer/ringer_18.svg",
+        "checksum": "313a487d889dbdda434653ecd57dda79eb5548dfd4ddfbd727706332aa13e8cd"
+      },
+      {
+        "id": "ringer_19",
+        "name": "Ringer 19",
+        "file": "ringer/ringer_19.svg",
+        "checksum": "1b7eab5c9f6b0da87134c991e44fdd3bfab66abb8c4df572403da4bfe869e73b"
+      },
+      {
+        "id": "ringer_20",
+        "name": "Ringer 20",
+        "file": "ringer/ringer_20.svg",
+        "checksum": "abc54418698970423e48720e1536b41d5a7ac21a7b712299cc32f44467a15a75"
+      },
+      {
+        "id": "ringer_21",
+        "name": "Ringer 21",
+        "file": "ringer/ringer_21.svg",
+        "checksum": "a392a0387d4f9688465724980e63d6440918db87e9ba90dbfb0b54bddb10349e"
+      },
+      {
+        "id": "ringer_22",
+        "name": "Ringer 22",
+        "file": "ringer/ringer_22.svg",
+        "checksum": "2e0456f3d9835485259fdfac38ff4a934c7c4891ce7ef62e4b16c0774205371c"
+      },
+      {
+        "id": "ringer_23",
+        "name": "Ringer 23",
+        "file": "ringer/ringer_23.svg",
+        "checksum": "194399d6b34904a3e8cecd0d2f4274a379c4b6085f1e194f31251721aa847b96"
+      },
+      {
+        "id": "ringer_24",
+        "name": "Ringer 24",
+        "file": "ringer/ringer_24.svg",
+        "checksum": "42105763de1c8391be332e285874140ba8037f04f236c50a80d071e22f635a09"
+      },
+      {
+        "id": "ringer_25",
+        "name": "Ringer 25",
+        "file": "ringer/ringer_25.svg",
+        "checksum": "eda477328b61658365a7e615737c5bc74501f3f23fe5441a368bfa259d051eba"
+      },
+      {
+        "id": "ringer_26",
+        "name": "Ringer 26",
+        "file": "ringer/ringer_26.svg",
+        "checksum": "a5c3f79fa73f72ff4161450c17c9ff1afafa790ecd682b8bc832b50fc1fdbbe4"
+      },
+      {
+        "id": "ringer_27",
+        "name": "Ringer 27",
+        "file": "ringer/ringer_27.svg",
+        "checksum": "fd45f80e6584506a52826b3cebccb2be994d96040e2e9a89b3bb33461c0311d9"
+      },
+      {
+        "id": "ringer_28",
+        "name": "Ringer 28",
+        "file": "ringer/ringer_28.svg",
+        "checksum": "d12029672857d4d2b40a0a70f23bc5b074ec9fe8ab61ad6425d2a9e4976a7a59"
+      },
+      {
+        "id": "ringer_29",
+        "name": "Ringer 29",
+        "file": "ringer/ringer_29.svg",
+        "checksum": "d4b51a22fd6ab302e27e8edabe78ae8929719c40007c5ec2946c0fab3d6dab40"
+      },
+      {
+        "id": "ringer_30",
+        "name": "Ringer 30",
+        "file": "ringer/ringer_30.svg",
+        "checksum": "adc39b4695fe23dec25e174e2171bad69c2d7e58cf5b09a5b3adf5031e1c0391"
       }
     ],
     "hotspot": [
