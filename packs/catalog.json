@@ -1698,6 +1698,96 @@
         "name": "Hotspot 7",
         "file": "hotspot/hotspot_7.svg",
         "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "hotspot_8",
+        "name": "Hotspot 8",
+        "file": "hotspot/hotspot_8.svg",
+        "checksum": "49a1e367033ea7f04dca7f30d00f15ad0fd34a63988f7f1cbb0c6de7dabe4b37"
+      },
+      {
+        "id": "hotspot_9",
+        "name": "Hotspot 9",
+        "file": "hotspot/hotspot_9.svg",
+        "checksum": "99761b94fc4fc5bb7c6ef0069c9337fe6b7b607d6a63918d38f0f715ffb64b4a"
+      },
+      {
+        "id": "hotspot_10",
+        "name": "Hotspot 10",
+        "file": "hotspot/hotspot_10.svg",
+        "checksum": "b8300840c482a0a9d96874a0fbaa1f0db1f3bc5c7755d11fa5880b0bef042210"
+      },
+      {
+        "id": "hotspot_11",
+        "name": "Hotspot 11",
+        "file": "hotspot/hotspot_11.svg",
+        "checksum": "fab6456a4daa9cadbc9b0ea90e4acc690bc0ce6421d6cba5628a6f2847c34fc0"
+      },
+      {
+        "id": "hotspot_12",
+        "name": "Hotspot 12",
+        "file": "hotspot/hotspot_12.svg",
+        "checksum": "dd8becf791551058b4f5a33ab4dd154ad48b77869aee90ba5e974236b012ec21"
+      },
+      {
+        "id": "hotspot_13",
+        "name": "Hotspot 13",
+        "file": "hotspot/hotspot_13.svg",
+        "checksum": "3e765fb1254ca04e8c159a2f2f964ec34c9abefe12bfa91a81fe2a104ca9badc"
+      },
+      {
+        "id": "hotspot_14",
+        "name": "Hotspot 14",
+        "file": "hotspot/hotspot_14.svg",
+        "checksum": "7b4cc5dcf026e61b7d88f2d0740e291fa053da8c26c94538b52041f211e31bab"
+      },
+      {
+        "id": "hotspot_15",
+        "name": "Hotspot 15",
+        "file": "hotspot/hotspot_15.svg",
+        "checksum": "6ecb692538a492439180e6a30bdab11de99674b98d0d06117a4da1a8b0196e64"
+      },
+      {
+        "id": "hotspot_16",
+        "name": "Hotspot 16",
+        "file": "hotspot/hotspot_16.svg",
+        "checksum": "b11c50ede9e9e3ff5266989b32078f93bd8310977222ba063881ad4654415fb0"
+      },
+      {
+        "id": "hotspot_17",
+        "name": "Hotspot 17",
+        "file": "hotspot/hotspot_17.svg",
+        "checksum": "95a027c842c2831b224f05ba78ba882dd751f204edfd0b191befb56094d2a576"
+      },
+      {
+        "id": "hotspot_18",
+        "name": "Hotspot 18",
+        "file": "hotspot/hotspot_18.svg",
+        "checksum": "82c2bec54c46b54ac7b3ace2c6cd5ea907938499193cf44b5429b7b6025f2b14"
+      },
+      {
+        "id": "hotspot_19",
+        "name": "Hotspot 19",
+        "file": "hotspot/hotspot_19.svg",
+        "checksum": "ca124b782063978ec3fddcfc8dfc622ea19c84d21f6461f4eac4ee79d4f7068d"
+      },
+      {
+        "id": "hotspot_20",
+        "name": "Hotspot 20",
+        "file": "hotspot/hotspot_20.svg",
+        "checksum": "dacb9ad92e9c218e1b449751173177bda293fe670d0cc8b0942d8780648e5d7b"
+      },
+      {
+        "id": "hotspot_21",
+        "name": "Hotspot 21",
+        "file": "hotspot/hotspot_21.svg",
+        "checksum": "677ade7159207104bbf92a26ca339c8f13375d24558abca2d222895e72c0235d"
+      },
+      {
+        "id": "hotspot_22",
+        "name": "Hotspot 22",
+        "file": "hotspot/hotspot_22.svg",
+        "checksum": "5611f2900054074454107a5fe5fac8c0f1c772f88f370f4eab8a0b7b0011dbf6"
       }
     ],
     "charging": [
