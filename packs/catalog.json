@@ -1821,11 +1821,11 @@
       "categoryId": "animals",
       "states": {
         "idle": "pets/Animals/pet_1/idle.lottie",
-        "walking": "pets/Animals/pet_1/walk.lottie",
-        "happy": "pets/Animals/pet_1/happy.lottie",
-        "climbing": "pets/Animals/pet_1/climbing.lottie",
-        "falling": "pets/Animals/pet_1/falling.lottie",
-        "cieling": "pets/Animals/pet_1/cieling.lottie"
+        "walking": "pets/Animals/pet_1/idle.lottie",
+        "happy": "pets/Animals/pet_1/idle.lottie",
+        "climbing": "pets/Animals/pet_1/idle.lottie",
+        "falling": "pets/Animals/pet_1/idle.lottie",
+        "cieling": "pets/Animals/pet_1/idle.lottie"
       },
       "checksums": {
         "idle": "REPLACE_WITH_SHA256",
