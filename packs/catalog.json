@@ -1188,6 +1188,228 @@
         "name": "Signal 8",
         "file": "signal/signal_8.svg",
         "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "signal_9",
+        "name": "Signal 9",
+        "file": "signal/signal_9.svg",
+        "checksum": "76261c4de278fe70f97e8048c1f8afb4cc2435d85a608eb98d5f68704c8896cd"
+      },
+      {
+        "id": "signal_10",
+        "name": "Signal 10",
+        "file": "signal/signal_10.svg",
+        "checksum": "5917bd0249cadff4b6f103cfccf0fddce4826e920ced8ff049bea61686e94b88"
+      },
+      {
+        "id": "signal_11",
+        "name": "Signal 11",
+        "file": "signal/signal_11.svg",
+        "checksum": "5bb68e888c07f16e75126c88299a7ea9f57cb7b2eb24aa62d8dad229b023b709"
+      },
+      {
+        "id": "signal_12",
+        "name": "Signal 12",
+        "file": "signal/signal_12.svg",
+        "checksum": "f20ac4a74285bf9844070ad68486b1a870b402ae9e690e55b4a23638cb7e6b4a"
+      },
+      {
+        "id": "signal_13",
+        "name": "Signal 13",
+        "file": "signal/signal_13.svg",
+        "checksum": "1deed3d8643f4be0abb8834214aeb8dd366714afc79311d84779bc43e3aae013"
+      },
+      {
+        "id": "signal_14",
+        "name": "Signal 14",
+        "file": "signal/signal_14.svg",
+        "checksum": "f4cd82f52294079670f92bb283466b15aeb268f4f8808887ce281dac3e0a1a2d"
+      },
+      {
+        "id": "signal_15",
+        "name": "Signal 15",
+        "file": "signal/signal_15.svg",
+        "checksum": "c6e5c2ef796d422ceea75cb89b98349367ab60baf00bddcfe2b6ea0e7f83fd7e"
+      },
+      {
+        "id": "signal_16",
+        "name": "Signal 16",
+        "file": "signal/signal_16.svg",
+        "checksum": "64e32f60b30484e16792b665db9124f48ddbbd87572881a87590620f5d8582ff"
+      },
+      {
+        "id": "signal_17",
+        "name": "Signal 17",
+        "file": "signal/signal_17.svg",
+        "checksum": "850815efc9c6478b3cc8bd0f672bd055f80f938b4ebdc20a6a6f39babe49ec0d"
+      },
+      {
+        "id": "signal_18",
+        "name": "Signal 18",
+        "file": "signal/signal_18.svg",
+        "checksum": "554437b60d416e93adff63ccb8ed113055f8b7a383ed3eab5e5c3e64e30c85f2"
+      },
+      {
+        "id": "signal_19",
+        "name": "Signal 19",
+        "file": "signal/signal_19.svg",
+        "checksum": "e84a29bc47c96a561daf4390b22969b7db79f2b333ffe0b08aef7c784fe051ff"
+      },
+      {
+        "id": "signal_20",
+        "name": "Signal 20",
+        "file": "signal/signal_20.svg",
+        "checksum": "b7bf32b26c8e16a253a18bd0f38bbf94030713ece3a1476b2059390aba1eb2f5"
+      },
+      {
+        "id": "signal_21",
+        "name": "Signal 21",
+        "file": "signal/signal_21.svg",
+        "checksum": "d440b50409d9d846adbb05ee0689b0222634b31120227fa84e28ce614a2079d4"
+      },
+      {
+        "id": "signal_22",
+        "name": "Signal 22",
+        "file": "signal/signal_22.svg",
+        "checksum": "192070bd8c7f09a8a3afd107fb806db52a4f994d2c766207c99926820c9b9350"
+      },
+      {
+        "id": "signal_23",
+        "name": "Signal 23",
+        "file": "signal/signal_23.svg",
+        "checksum": "810ad649f7f5d4f7d31ae6bfba8827d0dcbf8f621abe7cb4bdbf0a51582c3600"
+      },
+      {
+        "id": "signal_24",
+        "name": "Signal 24",
+        "file": "signal/signal_24.svg",
+        "checksum": "65f350125c38ac2efaff7f032cb74e49ccd676f7ded603e801d36aa30027c9d9"
+      },
+      {
+        "id": "signal_25",
+        "name": "Signal 25",
+        "file": "signal/signal_25.svg",
+        "checksum": "8ad267653033eb3f0ff642cf565e56eec90baca79c2b59fda939f27867aad076"
+      },
+      {
+        "id": "signal_26",
+        "name": "Signal 26",
+        "file": "signal/signal_26.svg",
+        "checksum": "ede6cc6cb2680e7dc8896f70b8b98e934e663ae8c1368a4820b54875ad735aaa"
+      },
+      {
+        "id": "signal_27",
+        "name": "Signal 27",
+        "file": "signal/signal_27.svg",
+        "checksum": "3a1fc86c1f7f5e64d9d8c14e4bc5dc00c0918fc4a5e99e5b6f901e77d2bedb08"
+      },
+      {
+        "id": "signal_28",
+        "name": "Signal 28",
+        "file": "signal/signal_28.svg",
+        "checksum": "52178e9775fd2e0f64f8686b41fd13ca6a2133aff5718a568e5857f63a74b486"
+      },
+      {
+        "id": "signal_29",
+        "name": "Signal 29",
+        "file": "signal/signal_29.svg",
+        "checksum": "6550379ed4e87f546c5efc59529057842cd54d9a02e84e64cdd91d2a9dc38ba4"
+      },
+      {
+        "id": "signal_30",
+        "name": "Signal 30",
+        "file": "signal/signal_30.svg",
+        "checksum": "40156d79511e3bc8422fbc1665ebc21ef985941bcb504653abf46853709f8962"
+      },
+      {
+        "id": "signal_31",
+        "name": "Signal 31",
+        "file": "signal/signal_31.svg",
+        "checksum": "4d4eeb5bb99393d2f5e6ce533b65b398d87a799a68aa627f772acb32a34abfb7"
+      },
+      {
+        "id": "signal_32",
+        "name": "Signal 32",
+        "file": "signal/signal_32.svg",
+        "checksum": "91be95fb2765107cd04c97d34fb0872a769e4b95dec6f8bb6cfb09fa615d9bc0"
+      },
+      {
+        "id": "signal_33",
+        "name": "Signal 33",
+        "file": "signal/signal_33.svg",
+        "checksum": "24432f47fac80036321c4e40a95f892ba876ebcc7657332e51b6c19f0b369401"
+      },
+      {
+        "id": "signal_34",
+        "name": "Signal 34",
+        "file": "signal/signal_34.svg",
+        "checksum": "89b17e6c6aad1bdf7e78098cfe1369b22c7affaf0dcbbfdb9306838f83aaef67"
+      },
+      {
+        "id": "signal_35",
+        "name": "Signal 35",
+        "file": "signal/signal_35.svg",
+        "checksum": "501c19b16e10512ec2ec43ee235e57a0edaa0de71ef21145588a9066ce4d40e6"
+      },
+      {
+        "id": "signal_36",
+        "name": "Signal 36",
+        "file": "signal/signal_36.svg",
+        "checksum": "5bbd6b0788ec2f5ab3721f18689b1e8c4eda3db3d926e017d317b5231913f888"
+      },
+      {
+        "id": "signal_37",
+        "name": "Signal 37",
+        "file": "signal/signal_37.svg",
+        "checksum": "3c62152a34dde268e307624a3d6f04f1280c1e2498b041644f93a16f54fb3494"
+      },
+      {
+        "id": "signal_38",
+        "name": "Signal 38",
+        "file": "signal/signal_38.svg",
+        "checksum": "b3eb45f070f1b580216729718ef9492eb4bfd45fd36a5255fc7f9a3dbc67f053"
+      },
+      {
+        "id": "signal_39",
+        "name": "Signal 39",
+        "file": "signal/signal_39.svg",
+        "checksum": "cb78980cdc478753e95ff3889cc1255cdc1883822b7287c973e328b398bc5a9c"
+      },
+      {
+        "id": "signal_40",
+        "name": "Signal 40",
+        "file": "signal/signal_40.svg",
+        "checksum": "a17ed2c4aba3bba35693faa904254369e7061031dbfcb38ea7e765c0387238f5"
+      },
+      {
+        "id": "signal_41",
+        "name": "Signal 41",
+        "file": "signal/signal_41.svg",
+        "checksum": "9575ba53cbb54fcb511fe979f0a912e2b0977d05f205aabd2292ee51f0057d66"
+      },
+      {
+        "id": "signal_42",
+        "name": "Signal 42",
+        "file": "signal/signal_42.svg",
+        "checksum": "60006e92325c7ca8e86f1bdb8f08df72298ec1d770b2c7cd2442879505fd67dd"
+      },
+      {
+        "id": "signal_43",
+        "name": "Signal 43",
+        "file": "signal/signal_43.svg",
+        "checksum": "2d98794ed7f06c2076c5a0bd77745188954b9f907257710110ad0091693ba37f"
+      },
+      {
+        "id": "signal_44",
+        "name": "Signal 44",
+        "file": "signal/signal_44.svg",
+        "checksum": "bfbd13ef1a6261290d904a361504bceea3dbbcb15ffbd054716d15e60ed97a38"
+      },
+      {
+        "id": "signal_45",
+        "name": "Signal 45",
+        "file": "signal/signal_45.svg",
+        "checksum": "ff50b4e35f297335d02775d48546d43570497371d3746c79494efd1bea8b4861"
       }
     ],
     "airplane": [
