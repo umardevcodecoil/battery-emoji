@@ -934,7 +934,211 @@
         "name": "Wifi 8",
         "file": "wifi/wifi_8.svg",
         "checksum": "REPLACE_WITH_SHA256"
-      }
+      },
+      {
+    "id": "wifi_9",
+    "name": "Wifi 9",
+    "file": "wifi/wifi_9.svg",
+    "checksum": "117a94a9ca8cacc9791a7d4555f8e7a8c8f3698fe8b7854229dda6cee97e33fc"
+  },
+  {
+    "id": "wifi_10",
+    "name": "Wifi 10",
+    "file": "wifi/wifi_10.svg",
+    "checksum": "439b5b68677eb44f4d90272868fd62298bccac83b3668f2a2ba106f8f86b2daa"
+  },
+  {
+    "id": "wifi_11",
+    "name": "Wifi 11",
+    "file": "wifi/wifi_11.svg",
+    "checksum": "e0f76f483b85afde9638e1e5c2fdc9e45b4ad4c2270d1b9c7b2c4c4fd4a4effb"
+  },
+  {
+    "id": "wifi_12",
+    "name": "Wifi 12",
+    "file": "wifi/wifi_12.svg",
+    "checksum": "f0c1834c023f12408e8fb54f28d2647de9b2f531672b1ccd7ee62a6405deeb2e"
+  },
+  {
+    "id": "wifi_13",
+    "name": "Wifi 13",
+    "file": "wifi/wifi_13.svg",
+    "checksum": "617aa49e7e41678d676643b4acf756f2ebb42b3ed7b642af23ea6ea9f06b78c8"
+  },
+  {
+    "id": "wifi_14",
+    "name": "Wifi 14",
+    "file": "wifi/wifi_14.svg",
+    "checksum": "7719d949f5d32fa7d7daecbb041ce5e95a13ce732bf54acef11a131b5b8bad6f"
+  },
+  {
+    "id": "wifi_15",
+    "name": "Wifi 15",
+    "file": "wifi/wifi_15.svg",
+    "checksum": "b0996b15dadd97d8662909a7f2683376fa1a4b797206ef0dc5fa814a130613d3"
+  },
+  {
+    "id": "wifi_16",
+    "name": "Wifi 16",
+    "file": "wifi/wifi_16.svg",
+    "checksum": "d18a63553c56df7d962e06c26b9ae70e309508e4884865cfe285121a6ba7bd09"
+  },
+  {
+    "id": "wifi_17",
+    "name": "Wifi 17",
+    "file": "wifi/wifi_17.svg",
+    "checksum": "8531040daff321fc109a2ede61840e39a7d2b27bfe6005bf408545ba911445f3"
+  },
+  {
+    "id": "wifi_18",
+    "name": "Wifi 18",
+    "file": "wifi/wifi_18.svg",
+    "checksum": "519269d86e5a1ff1bd976f6345db8ac770689be2b73b994abe8d086d7d5d1a03"
+  },
+  {
+    "id": "wifi_19",
+    "name": "Wifi 19",
+    "file": "wifi/wifi_19.svg",
+    "checksum": "a284f9e6f5c5106787e68404311c831f631adfa96507a2aca5cdbef135c32c72"
+  },
+  {
+    "id": "wifi_20",
+    "name": "Wifi 20",
+    "file": "wifi/wifi_20.svg",
+    "checksum": "be0e650af3adb90995d1f60e0dbd77e68bcd3e2377783767eab20e64b7046eaf"
+  },
+  {
+    "id": "wifi_21",
+    "name": "Wifi 21",
+    "file": "wifi/wifi_21.svg",
+    "checksum": "7ea29ed4d25cc36ac2dd61297bb2420b206ad02ad41b07324aeaffb09da6d6be"
+  },
+  {
+    "id": "wifi_22",
+    "name": "Wifi 22",
+    "file": "wifi/wifi_22.svg",
+    "checksum": "f9ad78c7bf7469700ea7321cd4fa2d03bbc4301e5cf90421a3cec973e7bdcd5d"
+  },
+  {
+    "id": "wifi_23",
+    "name": "Wifi 23",
+    "file": "wifi/wifi_23.svg",
+    "checksum": "edb6bfb9472ba1c4b6c46a8c5ff987bb75d0878450fffdcdfe38598714ff4f03"
+  },
+  {
+    "id": "wifi_24",
+    "name": "Wifi 24",
+    "file": "wifi/wifi_24.svg",
+    "checksum": "83d6b2f7df95860401d889fe0a09b691d7c1c7c68ce4faef2714b3239afe3ad6"
+  },
+  {
+    "id": "wifi_25",
+    "name": "Wifi 25",
+    "file": "wifi/wifi_25.svg",
+    "checksum": "fdc3f8e962b25ae903c0494967c51e7911168b123c3602c6cddceec6f9a27e66"
+  },
+  {
+    "id": "wifi_26",
+    "name": "Wifi 26",
+    "file": "wifi/wifi_26.svg",
+    "checksum": "f8f6e76ddb28529f247836e5654347668ecc9b668edc8efb4956d96d3ffed991"
+  },
+  {
+    "id": "wifi_27",
+    "name": "Wifi 27",
+    "file": "wifi/wifi_27.svg",
+    "checksum": "84f13271dd0996ae825df91670f63736e88f8dbc1c82bc15bdbe576a1f59cf6b"
+  },
+  {
+    "id": "wifi_28",
+    "name": "Wifi 28",
+    "file": "wifi/wifi_28.svg",
+    "checksum": "f10af7f78c5a2d781c08d9b9d412554305ad99853976d65758b8404330c341bc"
+  },
+  {
+    "id": "wifi_29",
+    "name": "Wifi 29",
+    "file": "wifi/wifi_29.svg",
+    "checksum": "59aaf27d2859c9e04480eb57f4dedfdac865fd594e0807a3e2611a6148a9d386"
+  },
+  {
+    "id": "wifi_30",
+    "name": "Wifi 30",
+    "file": "wifi/wifi_30.svg",
+    "checksum": "ce5e8089a1b155cd4cfa8c74b922e6932f5c09f272fd2c5d703ecc3f512c0817"
+  },
+  {
+    "id": "wifi_31",
+    "name": "Wifi 31",
+    "file": "wifi/wifi_31.svg",
+    "checksum": "a6f96060f988f5f9ee407450bce1bfc21c8c45395c733f442bb8d7fc533a272a"
+  },
+  {
+    "id": "wifi_32",
+    "name": "Wifi 32",
+    "file": "wifi/wifi_32.svg",
+    "checksum": "fd300c150cc7298f82f33e015ac964779bea49e6afbf130af48d23c2ff368baf"
+  },
+  {
+    "id": "wifi_33",
+    "name": "Wifi 33",
+    "file": "wifi/wifi_33.svg",
+    "checksum": "80e582e8eda5ef910090d1a6c6bc1ef651e1d0dbcbc161c6ebed2870ea305a15"
+  },
+  {
+    "id": "wifi_34",
+    "name": "Wifi 34",
+    "file": "wifi/wifi_34.svg",
+    "checksum": "d526187118d802ed89482e66c80b6e3f21f9887f3f191d74f6864c01373e1104"
+  },
+  {
+    "id": "wifi_35",
+    "name": "Wifi 35",
+    "file": "wifi/wifi_35.svg",
+    "checksum": "50b56f1e9e801c8987fcb4e4f7758c9f8a51b68b1bcaa3a6109e768d044eeff6"
+  },
+  {
+    "id": "wifi_36",
+    "name": "Wifi 36",
+    "file": "wifi/wifi_36.svg",
+    "checksum": "9b586e5f62198622f9bd3c45318af20585472b45ece279f5298cebf64951e292"
+  },
+  {
+    "id": "wifi_37",
+    "name": "Wifi 37",
+    "file": "wifi/wifi_37.svg",
+    "checksum": "ae4bda6eb57779b7312d6070c8aa33188b82682d18fc48935646b0e8be351d74"
+  },
+  {
+    "id": "wifi_38",
+    "name": "Wifi 38",
+    "file": "wifi/wifi_38.svg",
+    "checksum": "9124e6f37fd5fbe6bf7d021b152c72c4d11fb60741d86388d86f9b5c6a70d50a"
+  },
+  {
+    "id": "wifi_39",
+    "name": "Wifi 39",
+    "file": "wifi/wifi_39.svg",
+    "checksum": "9124e6f37fd5fbe6bf7d021b152c72c4d11fb60741d86388d86f9b5c6a70d50a"
+  },
+  {
+    "id": "wifi_40",
+    "name": "Wifi 40",
+    "file": "wifi/wifi_40.svg",
+    "checksum": "d8383f809d6d3ca90d0ad23979a934372aeb1e4146158775725ea042e331df4a"
+  },
+  {
+    "id": "wifi_41",
+    "name": "Wifi 41",
+    "file": "wifi/wifi_41.svg",
+    "checksum": "71c57eb5ff7b9ad85d6312a4bbcac2dd3b2d86fdba3406dff6b4daf67141208d"
+  },
+  {
+    "id": "wifi_42",
+    "name": "Wifi 42",
+    "file": "wifi/wifi_42.svg",
+    "checksum": "caec2d60c265a8fba3a3493f9cb4020de45e523ebd28c8b9101fa2fdc445260e"
+  }
     ],
     "signal": [
       {
