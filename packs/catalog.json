@@ -1472,6 +1472,96 @@
         "name": "Airplane 10",
         "file": "airplane/plane_10.svg",
         "checksum": "REPLACE_WITH_SHA256"
+      },
+      {
+        "id": "plane_11",
+        "name": "Airplane 11",
+        "file": "airplane/plane_11.svg",
+        "checksum": "a741675821be799a8e469f4d76824aaf8f7b0a654c573d6e5537f04f4d974c90"
+      },
+      {
+        "id": "plane_12",
+        "name": "Airplane 12",
+        "file": "airplane/plane_12.svg",
+        "checksum": "3f31ff91010477f04ffcd3fcfa7d5abe70d88975fe4a9f5d93919e31505e2a99"
+      },
+      {
+        "id": "plane_13",
+        "name": "Airplane 13",
+        "file": "airplane/plane_13.svg",
+        "checksum": "132b654d173169c695ba40461b62a85c61ef4a1cd6b445de29040a1af57f386c"
+      },
+      {
+        "id": "plane_14",
+        "name": "Airplane 14",
+        "file": "airplane/plane_14.svg",
+        "checksum": "b405ad9ec18dbc6bf99f0dd19f21328b6b3fccf1f6b17f2bdf4f7df3ea6c2e8d"
+      },
+      {
+        "id": "plane_15",
+        "name": "Airplane 15",
+        "file": "airplane/plane_15.svg",
+        "checksum": "47716ca98006a720a7c329bb78f65814f2904cd75a5cf55b9a4fb213db691299"
+      },
+      {
+        "id": "plane_16",
+        "name": "Airplane 16",
+        "file": "airplane/plane_16.svg",
+        "checksum": "5cde2ddff5ba9ba427da27f37e5e784e8497ff6ee60c69d969855ef5da7ff447"
+      },
+      {
+        "id": "plane_17",
+        "name": "Airplane 17",
+        "file": "airplane/plane_17.svg",
+        "checksum": "8b225552ff719869b01a839cb1178fd7088eba5718ecf63c99a19e891afd39ff"
+      },
+      {
+        "id": "plane_18",
+        "name": "Airplane 18",
+        "file": "airplane/plane_18.svg",
+        "checksum": "c4dc6b4e26b5da6c9e7dadf57787a97d8a9022a90067f94b3851f6563c82cac8"
+      },
+      {
+        "id": "plane_19",
+        "name": "Airplane 19",
+        "file": "airplane/plane_19.svg",
+        "checksum": "b4ab2edafeac0d797eb288c89942f29eea261aaf193d940933fa2513e9f0f79e"
+      },
+      {
+        "id": "plane_20",
+        "name": "Airplane 20",
+        "file": "airplane/plane_20.svg",
+        "checksum": "f8aa1eb7f6faa3da854466850d04df1e10db90c4202d8abcdb79d65ee3f747ca"
+      },
+      {
+        "id": "plane_21",
+        "name": "Airplane 21",
+        "file": "airplane/plane_21.svg",
+        "checksum": "7faa66083d5119b13bc898d8e5d5991065e3b04baac1d7432ecfacd81a3f98b7"
+      },
+      {
+        "id": "plane_22",
+        "name": "Airplane 22",
+        "file": "airplane/plane_22.svg",
+        "checksum": "1ec17911d5931dd9851cfe8824181042878998770d17350d6724a629960e7bc5"
+      },
+      {
+        "id": "plane_23",
+        "name": "Airplane 23",
+        "file": "airplane/plane_23.svg",
+        "checksum": "54326560ec537b7293979e84037590558f89d3996c3fe608882d81cc4552a76d"
+      },
+      {
+        "id": "plane_24",
+        "name": "Airplane 24",
+        "file": "airplane/plane_24.svg",
+        "checksum": "69f3ac3671ed9434b7d1f087a0c727af2f09bcfb41a6267a03dbfe86752d0006"
+      },
+      {
+        "id": "plane_25",
+        "name": "Airplane 25",
+        "file": "airplane/plane_25.svg",
+        "checksum": "dcf1dbafa4f4ab9e9da1cdbc8091fe45c2857c17294fa9325c2b8ed3e6de1485"
       }
     ],
     "ringer": [
