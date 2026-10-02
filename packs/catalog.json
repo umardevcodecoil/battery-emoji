@@ -753,7 +753,14 @@
       "name": "Classic Green",
       "categoryId": "animals",
       "orientation": "vertical",
-      "file": "battery/Animals/b_1/",
+      "file": "battery/b_1/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png",
+      },
       "isPremium": false,
       "checksum": "REPLACE_WITH_SHA256"
     },
@@ -762,16 +769,494 @@
       "name": "Classic Green",
       "categoryId": "animals",
       "orientation": "vertical",
-      "file": "battery/Animals/b_2/",
-      "isPremium": true,
+      "file": "battery/b_2/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png",
+      },
+      "isPremium": true, 
       "checksum": "REPLACE_WITH_SHA256"
     },
-     {
+    {
       "id": "b_3",
       "name": "Classic Green",
       "categoryId": "animals",
       "orientation": "vertical",
-      "file": "battery/Animals/b_3/",
+      "file": "battery/b_3/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_4",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_4/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_5",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_5/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_6",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_6/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_7",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_7/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_8",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_8/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_9",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_9/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_10",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_10/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_11",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_11/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_12",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_12/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_13",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_13/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_14",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_14/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_15",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_15/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_16",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_16/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_17",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_17/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_18",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_18/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_19",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_19/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_20",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_20/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_21",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_21/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_22",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_22/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_23",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_23/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_24",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_24/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_25",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_25/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_26",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_26/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_27",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_27/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_28",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_28/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_29",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_29/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_30",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_30/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_31",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_31/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "b_32",
+      "name": "Classic Green",
+      "categoryId": "animals",
+      "orientation": "vertical",
+      "file": "battery/b_32/",
+      "states": {
+        "twenty": "1.png",
+        "forty": "2.png",
+        "sixty": "3.png",
+        "eighty": "4.png",
+        "hundred": "5.png"
+      },
       "isPremium": true,
       "checksum": "REPLACE_WITH_SHA256"
     }
