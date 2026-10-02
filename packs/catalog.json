@@ -759,7 +759,7 @@
         "forty": "2.png",
         "sixty": "3.png",
         "eighty": "4.png",
-        "hundred": "5.png",
+        "hundred": "5.png"
       },
       "isPremium": false,
       "checksum": "REPLACE_WITH_SHA256"
@@ -775,7 +775,7 @@
         "forty": "2.png",
         "sixty": "3.png",
         "eighty": "4.png",
-        "hundred": "5.png",
+        "hundred": "5.png"
       },
       "isPremium": true, 
       "checksum": "REPLACE_WITH_SHA256"
