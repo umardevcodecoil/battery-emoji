@@ -2194,6 +2194,465 @@
     "position": "left",
     "isPremium": true,
     "checksum": "REPLACE_WITH_SHA256"
+  },
+    {
+    "id": "fantasy_icon_1",
+    "name": "Fantasy 1",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_01.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_2",
+    "name": "Fantasy 2",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_02.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_3",
+    "name": "Fantasy 3",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_03.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_4",
+    "name": "Fantasy 4",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_04.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_5",
+    "name": "Fantasy 5",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_05.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_6",
+    "name": "Fantasy 6",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_06.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_9",
+    "name": "Fantasy 9",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_09.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_10",
+    "name": "Fantasy 10",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_10.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_11",
+    "name": "Fantasy 11",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_11.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_12",
+    "name": "Fantasy 12",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_12.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_13",
+    "name": "Fantasy 13",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_13.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_14",
+    "name": "Fantasy 14",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_14.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_15",
+    "name": "Fantasy 15",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_15.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_16",
+    "name": "Fantasy 16",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_16.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_19",
+    "name": "Fantasy 19",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_19.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_20",
+    "name": "Fantasy 20",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_20.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_21",
+    "name": "Fantasy 21",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_21.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_22",
+    "name": "Fantasy 22",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_22.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_23",
+    "name": "Fantasy 23",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_23.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_24",
+    "name": "Fantasy 24",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_24.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_25",
+    "name": "Fantasy 25",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_25.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_26",
+    "name": "Fantasy 26",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_26.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_29",
+    "name": "Fantasy 29",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_29.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_30",
+    "name": "Fantasy 30",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_30.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_31",
+    "name": "Fantasy 31",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_31.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_32",
+    "name": "Fantasy 32",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_32.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_33",
+    "name": "Fantasy 33",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_33.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_34",
+    "name": "Fantasy 34",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_34.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_38",
+    "name": "Fantasy 38",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_38.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_39",
+    "name": "Fantasy 39",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_39.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_40",
+    "name": "Fantasy 40",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_40.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_41",
+    "name": "Fantasy 41",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_41.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_42",
+    "name": "Fantasy 42",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_42.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_43",
+    "name": "Fantasy 43",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_43.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_44",
+    "name": "Fantasy 44",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_44.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_45",
+    "name": "Fantasy 45",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_45.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_46",
+    "name": "Fantasy 46",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_46.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_47",
+    "name": "Fantasy 47",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_47.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_48",
+    "name": "Fantasy 48",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_48.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_49",
+    "name": "Fantasy 49",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_49.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_50",
+    "name": "Fantasy 50",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_50.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_51",
+    "name": "Fantasy 51",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_51.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_52",
+    "name": "Fantasy 52",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_52.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_53",
+    "name": "Fantasy 53",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_53.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_54",
+    "name": "Fantasy 54",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_54.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_55",
+    "name": "Fantasy 55",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_55.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_56",
+    "name": "Fantasy 56",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_56.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_57",
+    "name": "Fantasy 57",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_57.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_58",
+    "name": "Fantasy 58",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_58.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_59",
+    "name": "Fantasy 59",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_59.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "fantasy_icon_60",
+    "name": "Fantasy 60",
+    "categoryId": "fantasy",
+    "file": "emojis/Fantasy/fantasy_icon_60.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
   }
   ],
   "batteryIcons": [
