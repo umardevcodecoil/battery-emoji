@@ -3139,6 +3139,2697 @@
     "position": "left",
     "isPremium": true,
     "checksum": "REPLACE_WITH_SHA256"
+  },
+    {
+    "id": "funny_icon_1",
+    "name": "Funny 1",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_01.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_2",
+    "name": "Funny 2",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_02.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_3",
+    "name": "Funny 3",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_03.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_4",
+    "name": "Funny 4",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_04.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_5",
+    "name": "Funny 5",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_05.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_6",
+    "name": "Funny 6",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_06.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_7",
+    "name": "Funny 7",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_07.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_8",
+    "name": "Funny 8",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_08.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_9",
+    "name": "Funny 9",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_09.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_10",
+    "name": "Funny 10",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_10.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_11",
+    "name": "Funny 11",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_11.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_12",
+    "name": "Funny 12",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_12.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_13",
+    "name": "Funny 13",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_13.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_14",
+    "name": "Funny 14",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_14.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_15",
+    "name": "Funny 15",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_15.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_16",
+    "name": "Funny 16",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_16.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_17",
+    "name": "Funny 17",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_17.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_18",
+    "name": "Funny 18",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_18.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_19",
+    "name": "Funny 19",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_19.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_20",
+    "name": "Funny 20",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_20.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_21",
+    "name": "Funny 21",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_21.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_22",
+    "name": "Funny 22",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_22.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_23",
+    "name": "Funny 23",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_23.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_24",
+    "name": "Funny 24",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_24.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_25",
+    "name": "Funny 25",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_25.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_26",
+    "name": "Funny 26",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_26.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_27",
+    "name": "Funny 27",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_27.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_28",
+    "name": "Funny 28",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_28.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_29",
+    "name": "Funny 29",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_29.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_30",
+    "name": "Funny 30",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_30.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_31",
+    "name": "Funny 31",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_31.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_32",
+    "name": "Funny 32",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_32.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_33",
+    "name": "Funny 33",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_33.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_34",
+    "name": "Funny 34",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_34.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_35",
+    "name": "Funny 35",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_35.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_36",
+    "name": "Funny 36",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_36.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_37",
+    "name": "Funny 37",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_37.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_38",
+    "name": "Funny 38",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_38.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_39",
+    "name": "Funny 39",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_39.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_40",
+    "name": "Funny 40",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_40.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_41",
+    "name": "Funny 41",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_41.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_42",
+    "name": "Funny 42",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_42.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_43",
+    "name": "Funny 43",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_43.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_44",
+    "name": "Funny 44",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_44.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_45",
+    "name": "Funny 45",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_45.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_46",
+    "name": "Funny 46",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_46.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_47",
+    "name": "Funny 47",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_47.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_48",
+    "name": "Funny 48",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_48.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_49",
+    "name": "Funny 49",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_49.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_50",
+    "name": "Funny 50",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_50.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_51",
+    "name": "Funny 51",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_51.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_52",
+    "name": "Funny 52",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_52.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_53",
+    "name": "Funny 53",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_53.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "funny_icon_54",
+    "name": "Funny 54",
+    "categoryId": "funny",
+    "file": "emojis/Funny/funny_icon_54.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+    {
+    "id": "love_icon_1",
+    "name": "Love 1",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_01.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_2",
+    "name": "Love 2",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_02.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_3",
+    "name": "Love 3",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_03.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_4",
+    "name": "Love 4",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_04.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_5",
+    "name": "Love 5",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_05.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_6",
+    "name": "Love 6",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_06.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_7",
+    "name": "Love 7",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_07.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_8",
+    "name": "Love 8",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_08.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_9",
+    "name": "Love 9",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_09.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_10",
+    "name": "Love 10",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_10.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_11",
+    "name": "Love 11",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_11.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_12",
+    "name": "Love 12",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_12.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_13",
+    "name": "Love 13",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_13.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_14",
+    "name": "Love 14",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_14.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_15",
+    "name": "Love 15",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_15.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_16",
+    "name": "Love 16",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_16.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_17",
+    "name": "Love 17",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_17.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_18",
+    "name": "Love 18",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_18.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_19",
+    "name": "Love 19",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_19.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_20",
+    "name": "Love 20",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_20.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_21",
+    "name": "Love 21",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_21.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_22",
+    "name": "Love 22",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_22.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_23",
+    "name": "Love 23",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_23.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_24",
+    "name": "Love 24",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_24.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_25",
+    "name": "Love 25",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_25.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_26",
+    "name": "Love 26",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_26.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_27",
+    "name": "Love 27",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_27.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_28",
+    "name": "Love 28",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_28.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_29",
+    "name": "Love 29",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_29.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_30",
+    "name": "Love 30",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_30.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_31",
+    "name": "Love 31",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_31.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_32",
+    "name": "Love 32",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_32.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_33",
+    "name": "Love 33",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_33.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_34",
+    "name": "Love 34",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_34.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_35",
+    "name": "Love 35",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_35.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_36",
+    "name": "Love 36",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_36.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_37",
+    "name": "Love 37",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_37.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_40",
+    "name": "Love 40",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_40.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_41",
+    "name": "Love 41",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_41.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_42",
+    "name": "Love 42",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_42.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_43",
+    "name": "Love 43",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_43.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_44",
+    "name": "Love 44",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_44.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_45",
+    "name": "Love 45",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_45.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_51",
+    "name": "Love 51",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_51.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_52",
+    "name": "Love 52",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_52.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_53",
+    "name": "Love 53",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_53.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "love_icon_54",
+    "name": "Love 54",
+    "categoryId": "love",
+    "file": "emojis/Love/love_icon_54.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+    {
+    "id": "mood_icon_1",
+    "name": "Mood 1",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_01.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_2",
+    "name": "Mood 2",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_02.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_3",
+    "name": "Mood 3",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_03.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_4",
+    "name": "Mood 4",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_04.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_5",
+    "name": "Mood 5",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_05.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_6",
+    "name": "Mood 6",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_06.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_7",
+    "name": "Mood 7",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_07.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_8",
+    "name": "Mood 8",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_08.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_9",
+    "name": "Mood 9",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_09.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_10",
+    "name": "Mood 10",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_10.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_11",
+    "name": "Mood 11",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_11.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_12",
+    "name": "Mood 12",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_12.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_13",
+    "name": "Mood 13",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_13.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_14",
+    "name": "Mood 14",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_14.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_15",
+    "name": "Mood 15",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_15.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_16",
+    "name": "Mood 16",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_16.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_17",
+    "name": "Mood 17",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_17.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_18",
+    "name": "Mood 18",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_18.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_19",
+    "name": "Mood 19",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_19.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_20",
+    "name": "Mood 20",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_20.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_21",
+    "name": "Mood 21",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_21.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_22",
+    "name": "Mood 22",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_22.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_23",
+    "name": "Mood 23",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_23.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_24",
+    "name": "Mood 24",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_24.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_25",
+    "name": "Mood 25",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_25.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_26",
+    "name": "Mood 26",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_26.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_27",
+    "name": "Mood 27",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_27.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_28",
+    "name": "Mood 28",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_28.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_29",
+    "name": "Mood 29",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_29.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_30",
+    "name": "Mood 30",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_30.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_31",
+    "name": "Mood 31",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_31.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_32",
+    "name": "Mood 32",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_32.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_33",
+    "name": "Mood 33",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_33.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_34",
+    "name": "Mood 34",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_34.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_35",
+    "name": "Mood 35",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_35.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_36",
+    "name": "Mood 36",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_36.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_37",
+    "name": "Mood 37",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_37.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_38",
+    "name": "Mood 38",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_38.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_39",
+    "name": "Mood 39",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_39.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_40",
+    "name": "Mood 40",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_40.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_41",
+    "name": "Mood 41",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_41.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_42",
+    "name": "Mood 42",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_42.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_43",
+    "name": "Mood 43",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_43.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_44",
+    "name": "Mood 44",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_44.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_45",
+    "name": "Mood 45",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_45.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_46",
+    "name": "Mood 46",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_46.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_47",
+    "name": "Mood 47",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_47.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_48",
+    "name": "Mood 48",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_48.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_49",
+    "name": "Mood 49",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_49.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_50",
+    "name": "Mood 50",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_50.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_51",
+    "name": "Mood 51",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_51.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_52",
+    "name": "Mood 52",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_52.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_53",
+    "name": "Mood 53",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_53.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_54",
+    "name": "Mood 54",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_54.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_55",
+    "name": "Mood 55",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_55.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_56",
+    "name": "Mood 56",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_56.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_57",
+    "name": "Mood 57",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_57.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_58",
+    "name": "Mood 58",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_58.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_59",
+    "name": "Mood 59",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_59.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_60",
+    "name": "Mood 60",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_60.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_61",
+    "name": "Mood 61",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_61.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_62",
+    "name": "Mood 62",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_62.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_63",
+    "name": "Mood 63",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_63.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_64",
+    "name": "Mood 64",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_64.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_65",
+    "name": "Mood 65",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_65.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_66",
+    "name": "Mood 66",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_66.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_67",
+    "name": "Mood 67",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_67.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_68",
+    "name": "Mood 68",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_68.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_69",
+    "name": "Mood 69",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_69.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "mood_icon_70",
+    "name": "Mood 70",
+    "categoryId": "mood",
+    "file": "emojis/Mood/mood_icon_70.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+    {
+    "id": "nature_icon_1",
+    "name": "Nature 1",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_01.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_2",
+    "name": "Nature 2",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_02.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_3",
+    "name": "Nature 3",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_03.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_4",
+    "name": "Nature 4",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_04.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_5",
+    "name": "Nature 5",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_05.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_6",
+    "name": "Nature 6",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_06.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_7",
+    "name": "Nature 7",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_07.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_8",
+    "name": "Nature 8",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_08.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_9",
+    "name": "Nature 9",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_09.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_10",
+    "name": "Nature 10",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_10.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_11",
+    "name": "Nature 11",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_11.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_12",
+    "name": "Nature 12",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_12.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_13",
+    "name": "Nature 13",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_13.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_14",
+    "name": "Nature 14",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_14.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_15",
+    "name": "Nature 15",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_15.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_16",
+    "name": "Nature 16",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_16.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_17",
+    "name": "Nature 17",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_17.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_18",
+    "name": "Nature 18",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_18.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_19",
+    "name": "Nature 19",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_19.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_20",
+    "name": "Nature 20",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_20.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_21",
+    "name": "Nature 21",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_21.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_22",
+    "name": "Nature 22",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_22.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_23",
+    "name": "Nature 23",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_23.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_24",
+    "name": "Nature 24",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_24.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_25",
+    "name": "Nature 25",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_25.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_26",
+    "name": "Nature 26",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_26.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_27",
+    "name": "Nature 27",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_27.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_28",
+    "name": "Nature 28",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_28.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_29",
+    "name": "Nature 29",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_29.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_30",
+    "name": "Nature 30",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_30.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_31",
+    "name": "Nature 31",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_31.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_32",
+    "name": "Nature 32",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_32.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_33",
+    "name": "Nature 33",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_33.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_34",
+    "name": "Nature 34",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_34.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_35",
+    "name": "Nature 35",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_35.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_36",
+    "name": "Nature 36",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_36.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_37",
+    "name": "Nature 37",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_37.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_38",
+    "name": "Nature 38",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_38.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_39",
+    "name": "Nature 39",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_39.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_40",
+    "name": "Nature 40",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_40.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_41",
+    "name": "Nature 41",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_41.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_42",
+    "name": "Nature 42",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_42.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_43",
+    "name": "Nature 43",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_43.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_44",
+    "name": "Nature 44",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_44.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_45",
+    "name": "Nature 45",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_45.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_46",
+    "name": "Nature 46",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_46.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_47",
+    "name": "Nature 47",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_47.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_48",
+    "name": "Nature 48",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_48.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_49",
+    "name": "Nature 49",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_49.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_50",
+    "name": "Nature 50",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_50.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_51",
+    "name": "Nature 51",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_51.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_52",
+    "name": "Nature 52",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_52.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_53",
+    "name": "Nature 53",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_53.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_54",
+    "name": "Nature 54",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_54.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_55",
+    "name": "Nature 55",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_55.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_56",
+    "name": "Nature 56",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_56.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_57",
+    "name": "Nature 57",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_57.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_58",
+    "name": "Nature 58",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_58.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_59",
+    "name": "Nature 59",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_59.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_60",
+    "name": "Nature 60",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_60.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_61",
+    "name": "Nature 61",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_61.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_62",
+    "name": "Nature 62",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_62.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_63",
+    "name": "Nature 63",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_63.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_64",
+    "name": "Nature 64",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_64.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_65",
+    "name": "Nature 65",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_65.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_66",
+    "name": "Nature 66",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_66.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_67",
+    "name": "Nature 67",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_67.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_68",
+    "name": "Nature 68",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_68.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_69",
+    "name": "Nature 69",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_69.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "nature_icon_70",
+    "name": "Nature 70",
+    "categoryId": "nature",
+    "file": "emojis/Nature/icon_70.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+    {
+    "id": "seasonal_icon_1",
+    "name": "Seasonal 1",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_01.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_2",
+    "name": "Seasonal 2",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_02.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_3",
+    "name": "Seasonal 3",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_03.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_4",
+    "name": "Seasonal 4",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_04.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_5",
+    "name": "Seasonal 5",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_05.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_6",
+    "name": "Seasonal 6",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_06.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_7",
+    "name": "Seasonal 7",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_07.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_8",
+    "name": "Seasonal 8",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_08.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_9",
+    "name": "Seasonal 9",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_09.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_10",
+    "name": "Seasonal 10",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_10.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_11",
+    "name": "Seasonal 11",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_11.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_12",
+    "name": "Seasonal 12",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_12.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_13",
+    "name": "Seasonal 13",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_13.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_14",
+    "name": "Seasonal 14",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_14.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_17",
+    "name": "Seasonal 17",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_17.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_18",
+    "name": "Seasonal 18",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_18.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_19",
+    "name": "Seasonal 19",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_19.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_20",
+    "name": "Seasonal 20",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_20.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_21",
+    "name": "Seasonal 21",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_21.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_22",
+    "name": "Seasonal 22",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_22.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_23",
+    "name": "Seasonal 23",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_23.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_24",
+    "name": "Seasonal 24",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_24.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_25",
+    "name": "Seasonal 25",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_25.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_26",
+    "name": "Seasonal 26",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_26.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_27",
+    "name": "Seasonal 27",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_27.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_28",
+    "name": "Seasonal 28",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_28.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_29",
+    "name": "Seasonal 29",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_29.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_30",
+    "name": "Seasonal 30",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_30.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_31",
+    "name": "Seasonal 31",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_31.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_32",
+    "name": "Seasonal 32",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_32.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_33",
+    "name": "Seasonal 33",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_33.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_34",
+    "name": "Seasonal 34",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_34.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_35",
+    "name": "Seasonal 35",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_35.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_36",
+    "name": "Seasonal 36",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_36.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_37",
+    "name": "Seasonal 37",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_37.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_38",
+    "name": "Seasonal 38",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_38.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_39",
+    "name": "Seasonal 39",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_39.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_40",
+    "name": "Seasonal 40",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_40.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_41",
+    "name": "Seasonal 41",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_41.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_42",
+    "name": "Seasonal 42",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_42.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_43",
+    "name": "Seasonal 43",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_43.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_44",
+    "name": "Seasonal 44",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_44.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_45",
+    "name": "Seasonal 45",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_45.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_46",
+    "name": "Seasonal 46",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_46.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_47",
+    "name": "Seasonal 47",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_47.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_48",
+    "name": "Seasonal 48",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_48.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_49",
+    "name": "Seasonal 49",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_49.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_50",
+    "name": "Seasonal 50",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_50.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_51",
+    "name": "Seasonal 51",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_51.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_52",
+    "name": "Seasonal 52",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_52.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_53",
+    "name": "Seasonal 53",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_53.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_54",
+    "name": "Seasonal 54",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_54.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_55",
+    "name": "Seasonal 55",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_55.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_56",
+    "name": "Seasonal 56",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_56.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_57",
+    "name": "Seasonal 57",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_57.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_58",
+    "name": "Seasonal 58",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_58.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_59",
+    "name": "Seasonal 59",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_59.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "seasonal_icon_60",
+    "name": "Seasonal 60",
+    "categoryId": "seasonal",
+    "file": "emojis/Seasonal/seasonal_icon_60.png",
+    "position": "left",
+    "isPremium": true,
+    "checksum": "REPLACE_WITH_SHA256"
   }
   ],
   "batteryIcons": [
