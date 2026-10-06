@@ -5832,7 +5832,1393 @@
     "checksum": "REPLACE_WITH_SHA256"
   }
   ],
-  "batteryIcons": [
+  "static_batteryIcons": [
+  {
+    "id": "sb_1",
+    "name": "SB 1",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_001.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_2",
+    "name": "SB 2",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_002.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_3",
+    "name": "SB 3",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_003.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_4",
+    "name": "SB 4",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_004.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_5",
+    "name": "SB 5",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_005.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_6",
+    "name": "SB 6",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_006.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_7",
+    "name": "SB 7",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_007.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_8",
+    "name": "SB 8",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_008.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_9",
+    "name": "SB 9",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_009.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_10",
+    "name": "SB 10",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_010.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_11",
+    "name": "SB 11",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_011.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_12",
+    "name": "SB 12",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_012.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_13",
+    "name": "SB 13",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_013.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_14",
+    "name": "SB 14",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_014.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_15",
+    "name": "SB 15",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_015.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_16",
+    "name": "SB 16",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_016.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_17",
+    "name": "SB 17",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_017.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_18",
+    "name": "SB 18",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_018.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_19",
+    "name": "SB 19",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_019.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_20",
+    "name": "SB 20",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_020.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_21",
+    "name": "SB 21",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_021.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_22",
+    "name": "SB 22",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_022.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_23",
+    "name": "SB 23",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_023.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_24",
+    "name": "SB 24",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_024.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_25",
+    "name": "SB 25",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_025.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_26",
+    "name": "SB 26",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_026.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_27",
+    "name": "SB 27",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_027.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_28",
+    "name": "SB 28",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_028.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_29",
+    "name": "SB 29",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_029.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_30",
+    "name": "SB 30",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_030.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_31",
+    "name": "SB 31",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_031.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_32",
+    "name": "SB 32",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_032.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_33",
+    "name": "SB 33",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_033.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_34",
+    "name": "SB 34",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_034.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_35",
+    "name": "SB 35",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_035.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_36",
+    "name": "SB 36",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_036.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_37",
+    "name": "SB 37",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_037.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_38",
+    "name": "SB 38",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_038.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_39",
+    "name": "SB 39",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_039.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_40",
+    "name": "SB 40",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_040.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_41",
+    "name": "SB 41",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_041.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_42",
+    "name": "SB 42",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_042.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_43",
+    "name": "SB 43",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_043.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_44",
+    "name": "SB 44",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_044.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_45",
+    "name": "SB 45",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_045.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_46",
+    "name": "SB 46",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_046.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_47",
+    "name": "SB 47",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_047.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_48",
+    "name": "SB 48",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_048.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_49",
+    "name": "SB 49",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_049.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_50",
+    "name": "SB 50",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_050.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_51",
+    "name": "SB 51",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_051.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_52",
+    "name": "SB 52",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_052.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_53",
+    "name": "SB 53",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_053.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_54",
+    "name": "SB 54",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_054.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_55",
+    "name": "SB 55",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_055.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_56",
+    "name": "SB 56",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_056.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_57",
+    "name": "SB 57",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_057.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_58",
+    "name": "SB 58",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_058.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_59",
+    "name": "SB 59",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_059.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_60",
+    "name": "SB 60",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_060.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_61",
+    "name": "SB 61",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_061.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_62",
+    "name": "SB 62",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_062.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_63",
+    "name": "SB 63",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_063.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_64",
+    "name": "SB 64",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_064.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_65",
+    "name": "SB 65",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_065.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_66",
+    "name": "SB 66",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_066.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_67",
+    "name": "SB 67",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_067.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_68",
+    "name": "SB 68",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_068.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_69",
+    "name": "SB 69",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_069.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_70",
+    "name": "SB 70",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_070.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_71",
+    "name": "SB 71",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_071.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_72",
+    "name": "SB 72",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_072.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_73",
+    "name": "SB 73",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_073.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_74",
+    "name": "SB 74",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_074.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_75",
+    "name": "SB 75",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_075.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_76",
+    "name": "SB 76",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_076.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_77",
+    "name": "SB 77",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_077.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_78",
+    "name": "SB 78",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_078.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_79",
+    "name": "SB 79",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_079.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_80",
+    "name": "SB 80",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_080.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_81",
+    "name": "SB 81",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_081.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_82",
+    "name": "SB 82",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_082.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_83",
+    "name": "SB 83",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_083.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_84",
+    "name": "SB 84",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_084.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_85",
+    "name": "SB 85",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_085.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_86",
+    "name": "SB 86",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_086.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_87",
+    "name": "SB 87",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_087.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_88",
+    "name": "SB 88",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_088.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_89",
+    "name": "SB 89",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_089.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_90",
+    "name": "SB 90",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_090.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_91",
+    "name": "SB 91",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_091.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_92",
+    "name": "SB 92",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_092.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_93",
+    "name": "SB 93",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_093.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_94",
+    "name": "SB 94",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_094.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_95",
+    "name": "SB 95",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_095.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_96",
+    "name": "SB 96",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_096.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_97",
+    "name": "SB 97",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_097.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_98",
+    "name": "SB 98",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_098.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_99",
+    "name": "SB 99",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_099.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_100",
+    "name": "SB 100",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_100.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_101",
+    "name": "SB 101",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_101.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_102",
+    "name": "SB 102",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_102.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_103",
+    "name": "SB 103",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_103.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_104",
+    "name": "SB 104",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_104.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_105",
+    "name": "SB 105",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_105.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_106",
+    "name": "SB 106",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_106.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_107",
+    "name": "SB 107",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_107.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_108",
+    "name": "SB 108",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_108.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_109",
+    "name": "SB 109",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_109.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_110",
+    "name": "SB 110",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_110.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_111",
+    "name": "SB 111",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_111.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_112",
+    "name": "SB 112",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_112.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_113",
+    "name": "SB 113",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_113.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_114",
+    "name": "SB 114",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_114.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_115",
+    "name": "SB 115",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_115.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_116",
+    "name": "SB 116",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_116.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_117",
+    "name": "SB 117",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_117.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_118",
+    "name": "SB 118",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_118.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_119",
+    "name": "SB 119",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_119.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_120",
+    "name": "SB 120",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_120.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_121",
+    "name": "SB 121",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_121.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_122",
+    "name": "SB 122",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_122.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_123",
+    "name": "SB 123",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_123.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_124",
+    "name": "SB 124",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_124.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_125",
+    "name": "SB 125",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_125.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_126",
+    "name": "SB 126",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_126.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_127",
+    "name": "SB 127",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_127.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_128",
+    "name": "SB 128",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_128.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_129",
+    "name": "SB 129",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_129.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_130",
+    "name": "SB 130",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_130.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_131",
+    "name": "SB 131",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_131.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_132",
+    "name": "SB 132",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_132.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_133",
+    "name": "SB 133",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_133.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_134",
+    "name": "SB 134",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_134.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_135",
+    "name": "SB 135",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_135.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_136",
+    "name": "SB 136",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_136.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_137",
+    "name": "SB 137",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_137.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_138",
+    "name": "SB 138",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_138.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_139",
+    "name": "SB 139",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_139.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_140",
+    "name": "SB 140",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_140.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_141",
+    "name": "SB 141",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_141.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_142",
+    "name": "SB 142",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_142.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_143",
+    "name": "SB 143",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_143.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_144",
+    "name": "SB 144",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_144.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_145",
+    "name": "SB 145",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_145.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_146",
+    "name": "SB 146",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_146.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_147",
+    "name": "SB 147",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_147.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_148",
+    "name": "SB 148",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_148.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_149",
+    "name": "SB 149",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_149.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_150",
+    "name": "SB 150",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_150.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_151",
+    "name": "SB 151",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_151.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_152",
+    "name": "SB 152",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_152.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_153",
+    "name": "SB 153",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_153.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_154",
+    "name": "SB 154",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_154.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_155",
+    "name": "SB 155",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_155.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_156",
+    "name": "SB 156",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_156.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_157",
+    "name": "SB 157",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_157.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_158",
+    "name": "SB 158",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_158.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_159",
+    "name": "SB 159",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_159.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_160",
+    "name": "SB 160",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_160.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_161",
+    "name": "SB 161",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_161.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_162",
+    "name": "SB 162",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_162.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_163",
+    "name": "SB 163",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_163.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_164",
+    "name": "SB 164",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_164.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_165",
+    "name": "SB 165",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_165.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_166",
+    "name": "SB 166",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_166.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_167",
+    "name": "SB 167",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_167.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_168",
+    "name": "SB 168",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_168.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_169",
+    "name": "SB 169",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_169.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_170",
+    "name": "SB 170",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_170.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_171",
+    "name": "SB 171",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_171.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_172",
+    "name": "SB 172",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_172.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  },
+  {
+    "id": "sb_173",
+    "name": "SB 173",
+    "orientation": "horizontal",
+    "file": "battery/static/battery_173.png",
+    "isPremium": false,
+    "checksum": "REPLACE_WITH_SHA256"
+  }
+],
+  "dynamic_batteryIcons": [
     {
       "id": "b_1",
       "name": "Classic Green",
