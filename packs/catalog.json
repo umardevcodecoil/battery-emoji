@@ -7741,106 +7741,807 @@
         "hundred": "hundred.png"
       },
   "backgrounds": [
-    {
-      "id": "bg_1",
-      "name": "Bg 1",
-      "categoryId": "aesthetic",
-      "file": "backgrounds/theme1_bg.png",
-      "checksum": "REPLACE_WITH_SHA256",
-      "themeColor": "#E8368F",
-      "isPremium": false
-    },
-    {
-      "id": "bg_2",
-      "name": "Bg 2",
-      "categoryId": "aesthetic",
-      "file": "backgrounds/theme2_bg.png",
-      "checksum": "REPLACE_WITH_SHA256",
-      "themeColor": "#E8368F",
-      "isPremium": false
-    },
-    {
-      "id": "bg_3",
-      "name": "Bg 3",
-      "categoryId": "aesthetic",
-      "file": "backgrounds/theme3_bg.png",
-      "checksum": "REPLACE_WITH_SHA256",
-      "themeColor": "#E8368F",
-      "isPremium": false
-    },
-    {
-      "id": "bg_4",
-      "name": "Bg 4",
-      "categoryId": "aesthetic",
-      "file": "backgrounds/theme4_bg.png",
-      "checksum": "REPLACE_WITH_SHA256",
-      "themeColor": "#E8368F",
-      "isPremium": false
-    },
-    {
-      "id": "bg_5",
-      "name": "Bg 5",
-      "categoryId": "aesthetic",
-      "file": "backgrounds/theme5_bg.png",
-      "checksum": "REPLACE_WITH_SHA256",
-      "themeColor": "#E8368F",
-      "isPremium": false
-    },
-    {
-      "id": "bg_6",
-      "name": "Bg 6",
-      "categoryId": "aesthetic",
-      "file": "backgrounds/theme6_bg.png",
-      "checksum": "REPLACE_WITH_SHA256",
-      "themeColor": "#E8368F",
-      "isPremium": false
-    },
-    {
-      "id": "bg_7",
-      "name": "Bg 7",
-      "categoryId": "aesthetic",
-      "file": "backgrounds/theme7_bg.png",
-      "checksum": "REPLACE_WITH_SHA256",
-      "themeColor": "#E8368F",
-      "isPremium": false
-    },
-    {
-      "id": "bg_8",
-      "name": "Bg 8",
-      "categoryId": "aesthetic",
-      "file": "backgrounds/theme8_bg.png",
-      "checksum": "REPLACE_WITH_SHA256",
-      "themeColor": "#E8368F",
-      "isPremium": false
-    },
-    {
-      "id": "bg_9",
-      "name": "Bg 9",
-      "categoryId": "aesthetic",
-      "file": "backgrounds/theme9_bg.png",
-      "checksum": "REPLACE_WITH_SHA256",
-      "themeColor": "#E8368F",
-      "isPremium": false
-    },
-    {
-      "id": "bg_10",
-      "name": "Bg 10",
-      "categoryId": "aesthetic",
-      "file": "backgrounds/theme10_bg.png",
-      "checksum": "REPLACE_WITH_SHA256",
-      "themeColor": "#E8368F",
-      "isPremium": false
-    },
-    {
-      "id": "bg_11",
-      "name": "Bg 11",
-      "categoryId": "aesthetic",
-      "file": "backgrounds/theme11_bg.png",
-      "checksum": "REPLACE_WITH_SHA256",
-      "themeColor": "#E8368F",
-      "isPremium": false
-    }
-  ],
+  {
+    "id": "bg_1",
+    "name": "Bg 1",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme1_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_2",
+    "name": "Bg 2",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme2_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_3",
+    "name": "Bg 3",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme3_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_4",
+    "name": "Bg 4",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme4_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_5",
+    "name": "Bg 5",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme5_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_6",
+    "name": "Bg 6",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme6_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_7",
+    "name": "Bg 7",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme7_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_8",
+    "name": "Bg 8",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme8_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_9",
+    "name": "Bg 9",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme9_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_10",
+    "name": "Bg 10",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme10_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_11",
+    "name": "Bg 11",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme11_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_12",
+    "name": "Bg 12",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme12_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_13",
+    "name": "Bg 13",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme13_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_14",
+    "name": "Bg 14",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme14_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_15",
+    "name": "Bg 15",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme15_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_16",
+    "name": "Bg 16",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme16_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_17",
+    "name": "Bg 17",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme17_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_18",
+    "name": "Bg 18",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme18_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_19",
+    "name": "Bg 19",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme19_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_20",
+    "name": "Bg 20",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme20_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_21",
+    "name": "Bg 21",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme21_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_22",
+    "name": "Bg 22",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme22_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_23",
+    "name": "Bg 23",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme23_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_24",
+    "name": "Bg 24",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme24_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_25",
+    "name": "Bg 25",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme25_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_26",
+    "name": "Bg 26",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme26_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_27",
+    "name": "Bg 27",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme27_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_28",
+    "name": "Bg 28",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme28_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_29",
+    "name": "Bg 29",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme29_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_30",
+    "name": "Bg 30",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme30_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_31",
+    "name": "Bg 31",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme31_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_32",
+    "name": "Bg 32",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme32_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_33",
+    "name": "Bg 33",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme33_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_34",
+    "name": "Bg 34",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme34_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_35",
+    "name": "Bg 35",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme35_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_36",
+    "name": "Bg 36",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme36_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_37",
+    "name": "Bg 37",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme37_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_38",
+    "name": "Bg 38",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme38_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_39",
+    "name": "Bg 39",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme39_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_40",
+    "name": "Bg 40",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme40_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_41",
+    "name": "Bg 41",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme41_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_42",
+    "name": "Bg 42",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme42_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_43",
+    "name": "Bg 43",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme43_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_44",
+    "name": "Bg 44",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme44_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_45",
+    "name": "Bg 45",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme45_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_46",
+    "name": "Bg 46",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme46_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_47",
+    "name": "Bg 47",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme47_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_48",
+    "name": "Bg 48",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme48_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_49",
+    "name": "Bg 49",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme49_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_50",
+    "name": "Bg 50",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme50_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_51",
+    "name": "Bg 51",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme51_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_52",
+    "name": "Bg 52",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme52_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_53",
+    "name": "Bg 53",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme53_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_54",
+    "name": "Bg 54",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme54_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_55",
+    "name": "Bg 55",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme55_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_56",
+    "name": "Bg 56",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme56_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_57",
+    "name": "Bg 57",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme57_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_58",
+    "name": "Bg 58",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme58_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_59",
+    "name": "Bg 59",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme59_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_60",
+    "name": "Bg 60",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme60_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_61",
+    "name": "Bg 61",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme61_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_62",
+    "name": "Bg 62",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme62_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_63",
+    "name": "Bg 63",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme63_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_64",
+    "name": "Bg 64",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme64_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_65",
+    "name": "Bg 65",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme65_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_66",
+    "name": "Bg 66",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme66_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_67",
+    "name": "Bg 67",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme67_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_68",
+    "name": "Bg 68",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme68_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_69",
+    "name": "Bg 69",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme69_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_70",
+    "name": "Bg 70",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme70_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_71",
+    "name": "Bg 71",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme71_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_72",
+    "name": "Bg 72",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme72_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_73",
+    "name": "Bg 73",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme73_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_74",
+    "name": "Bg 74",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme74_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_75",
+    "name": "Bg 75",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme75_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_76",
+    "name": "Bg 76",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme76_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_77",
+    "name": "Bg 77",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme77_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_78",
+    "name": "Bg 78",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme78_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_79",
+    "name": "Bg 79",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme79_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_80",
+    "name": "Bg 80",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme80_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_81",
+    "name": "Bg 81",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme81_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_82",
+    "name": "Bg 82",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme82_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_83",
+    "name": "Bg 83",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme83_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_84",
+    "name": "Bg 84",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme84_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_85",
+    "name": "Bg 85",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme85_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_86",
+    "name": "Bg 86",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme86_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_87",
+    "name": "Bg 87",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme87_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_88",
+    "name": "Bg 88",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme88_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_89",
+    "name": "Bg 89",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme89_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_90",
+    "name": "Bg 90",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme90_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_91",
+    "name": "Bg 91",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme91_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_92",
+    "name": "Bg 92",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme92_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_93",
+    "name": "Bg 93",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme93_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_94",
+    "name": "Bg 94",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme94_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_95",
+    "name": "Bg 95",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme95_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_96",
+    "name": "Bg 96",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme96_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_97",
+    "name": "Bg 97",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme97_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_98",
+    "name": "Bg 98",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme98_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_99",
+    "name": "Bg 99",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme99_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  },
+  {
+    "id": "bg_100",
+    "name": "Bg 100",
+    "categoryId": "aesthetic",
+    "file": "backgrounds/theme100_bg.png",
+    "checksum": "REPLACE_WITH_SHA256",
+    "isPremium": false
+  }
+],
   "systemIcons": {
     "wifi": [
       {
