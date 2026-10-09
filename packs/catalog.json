@@ -9807,22 +9807,6 @@
     "file": "backgrounds/theme98_bg.png",
     "checksum": "REPLACE_WITH_SHA256",
     "isPremium": false
-  },
-  {
-    "id": "bg_99",
-    "name": "Bg 99",
-    "categoryId": "aesthetic",
-    "file": "backgrounds/theme99_bg.png",
-    "checksum": "REPLACE_WITH_SHA256",
-    "isPremium": false
-  },
-  {
-    "id": "bg_100",
-    "name": "Bg 100",
-    "categoryId": "aesthetic",
-    "file": "backgrounds/theme100_bg.png",
-    "checksum": "REPLACE_WITH_SHA256",
-    "isPremium": false
   }
 ],
   "systemIcons": {
