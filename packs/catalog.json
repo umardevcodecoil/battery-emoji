@@ -9785,106 +9785,1396 @@
     ]
   },
   "combos": [
+   {
+  "id": "animal_1",
+  "name": "Animal 1",
+  "categoryId": "animals",
+  "previewFile": "combos/Animals/1.png",
+  "emojiId": "animal_icon_85",
+  "batteryIconId": "battery_001",
+  "isDefault": true,
+  "isPremium": false
+},
+{
+  "id": "animal_2",
+  "name": "Animal 2",
+  "categoryId": "animals",
+  "previewFile": "combos/Animals/2.png",
+  "emojiId": "animal_icon_84",
+  "batteryIconId": "battery_002",
+  "isDefault": true,
+  "isPremium": false
+},
+{
+  "id": "animal_3",
+  "name": "Animal 3",
+  "categoryId": "animals",
+  "previewFile": "combos/Animals/3.png",
+  "emojiId": "/animal_icon_154",
+  "batteryIconId": "battery_098",
+  "isDefault": true,
+  "isPremium": false
+},
+{
+  "id": "animal_4",
+  "name": "Animal 4",
+  "categoryId": "animals",
+  "previewFile": "combos/Animals/4.png",
+  "emojiId": "animal_icon_89",
+  "batteryIconId": "battery_100",
+  "isDefault": true,
+  "isPremium": false
+},
+{
+  "id": "animal_5",
+  "name": "Animal 5",
+  "categoryId": "animals",
+  "previewFile": "combos/Animals/5.png",
+  "emojiId": "emoji_5",
+  "batteryIconId": "battery_005",
+  "isDefault": true,
+  "isPremium": false
+},
+{
+  "id": "animal_6",
+  "name": "Animal 6",
+  "categoryId": "animals",
+  "previewFile": "combos/Animals/6.png",
+  "emojiId": "animal_icon_144",
+  "batteryIconId": "battery_006",
+  "isDefault": true,
+  "isPremium": false
+},
+{
+  "id": "animal_7",
+  "name": "Animal 7",
+  "categoryId": "animals",
+  "previewFile": "combos/Animals/7.png",
+  "emojiId": "animal_icon_91",
+  "batteryIconId": "battery_003",
+  "isDefault": true,
+  "isPremium": false
+},
+{
+  "id": "animal_8",
+  "name": "Animal 8",
+  "categoryId": "animals",
+  "previewFile": "combos/Animals/8.png",
+  "emojiId": "animal_icon_119",
+  "batteryIconId": "battery_006",
+  "isDefault": true,
+  "isPremium": false
+},
+{
+  "id": "animal_9",
+  "name": "Animal 9",
+  "categoryId": "animals",
+  "previewFile": "combos/Animals/9.png",
+  "emojiId": "animal_icon_80",
+  "batteryIconId": "battery_011",
+  "isDefault": true,
+  "isPremium": false
+},
+{
+  "id": "animal_10",
+  "name": "Animal 10",
+  "categoryId": "animals",
+  "previewFile": "combos/Animals/10.png",
+  "emojiId": "animal_icon_90",
+  "batteryIconId": "battery_009",
+  "isDefault": true,
+  "isPremium": false
+},
+{
+  "id": "animal_11",
+  "name": "Animal 11",
+  "categoryId": "animals",
+  "previewFile": "combos/Animals/11.png",
+  "emojiId": "animal_icon_93",
+  "batteryIconId": "battery_009",
+  "isDefault": true,
+  "isPremium": false
+},
+{
+  "id": "animal_12",
+  "name": "Animal 12",
+  "categoryId": "animals",
+  "previewFile": "combos/Animals/12.png",
+  "emojiId": "animal_icon_94",
+  "batteryIconId": "battery_006",
+  "isDefault": true,
+  "isPremium": false
+},
+{
+  "id": "animal_13",
+  "name": "Animal 13",
+  "categoryId": "animals",
+  "previewFile": "combos/Animals/13.png",
+  "emojiId": "animal_icon_115",
+  "batteryIconId": "battery_006",
+  "isDefault": true,
+  "isPremium": false
+},
+     {
+"id": "cute_1",
+"name": "Cute 1",
+"categoryId": "cute",
+"previewFile": "combos/Cute/1.png",
+"emojiId": "emoji_1",
+"batteryIconId": "battery_020",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "cute_2",
+"name": "Cute 2",
+"categoryId": "cute",
+"previewFile": "combos/Cute/2.png",
+"emojiId": "emoji_2",
+"batteryIconId": "battery_002",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "cute_3",
+"name": "Cute 3",
+"categoryId": "cute",
+"previewFile": "combos/Cute/3.png",
+"emojiId": "love_icon_10",
+"batteryIconId": "battery_009",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "cute_4",
+"name": "Cute 4",
+"categoryId": "cute",
+"previewFile": "combos/Cute/4.png",
+"emojiId": "emoji_4",
+"batteryIconId": "battery_019",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "cute_5",
+"name": "Cute 5",
+"categoryId": "cute",
+"previewFile": "combos/Cute/5.png",
+"emojiId": "emoji_5",
+"batteryIconId": "battery_127",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "cute_6",
+"name": "Cute 6",
+"categoryId": "cute",
+"previewFile": "combos/Cute/6.png",
+"emojiId": "emoji_6",
+"batteryIconId": "battery_088",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "cute_7",
+"name": "Cute 7",
+"categoryId": "cute",
+"previewFile": "combos/Cute/7.png",
+"emojiId": "nature_icon_12",
+"batteryIconId": "battery_084",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "cute_8",
+"name": "Cute 8",
+"categoryId": "cute",
+"previewFile": "combos/Cute/8.png",
+"emojiId": "nature_icon_30",
+"batteryIconId": "battery_093",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "cute_9",
+"name": "Cute 9",
+"categoryId": "cute",
+"previewFile": "combos/Cute/9.png",
+"emojiId": "food_icon_19",
+"batteryIconId": "battery_006",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "cute_10",
+"name": "Cute 10",
+"categoryId": "cute",
+"previewFile": "combos/Cute/10.png",
+"emojiId": "food_icon_28",
+"batteryIconId": "battery_106",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "cute_11",
+"name": "Cute 11",
+"categoryId": "cute",
+"previewFile": "combos/Cute/11.png",
+"emojiId": "food_icon_01",
+"batteryIconId": "battery_098",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "cute_12",
+"name": "Cute 12",
+"categoryId": "cute",
+"previewFile": "combos/Cute/12.png",
+"emojiId": "food_icon_03",
+"batteryIconId": "battery_012",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "cute_13",
+"name": "Cute 13",
+"categoryId": "cute",
+"previewFile": "combos/Cute/13.png",
+"emojiId": "food_icon_02",
+"batteryIconId": "battery_121",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "cute_14",
+"name": "Cute 14",
+"categoryId": "cute",
+"previewFile": "combos/Cute/14.png",
+"emojiId": "emoji_14",
+"batteryIconId": "battery_131",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "cute_15",
+"name": "Cute 15",
+"categoryId": "cute",
+"previewFile": "combos/Cute/15.png",
+"emojiId": "love_icon_31",
+"batteryIconId": "battery_074",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "cute_16",
+"name": "Cute 16",
+"categoryId": "cute",
+"previewFile": "combos/Cute/16.png",
+"emojiId": "emoji_16",
+"batteryIconId": "battery_152",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "cute_17",
+"name": "Cute 17",
+"categoryId": "cute",
+"previewFile": "combos/Cute/17.png",
+"emojiId": "fantasy_icon_01",
+"batteryIconId": "battery_001",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "fantasy_1",
+"name": "Fantasy 1",
+"categoryId": "fantasy",
+"previewFile": "combos/Fantasy/1.png",
+"emojiId": "fantasy_icon_01",
+"batteryIconId": "battery_001",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "fantasy_2",
+"name": "Fantasy 2",
+"categoryId": "fantasy",
+"previewFile": "combos/Fantasy/2.png",
+"emojiId": "fantasy_icon_03",
+"batteryIconId": "battery_010",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "fantasy_3",
+"name": "Fantasy 3",
+"categoryId": "fantasy",
+"previewFile": "combos/Fantasy/3.png",
+"emojiId": "fantasy_icon_10",
+"batteryIconId": "battery_003",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "fantasy_4",
+"name": "Fantasy 4",
+"categoryId": "fantasy",
+"previewFile": "combos/Fantasy/4.png",
+"emojiId": "fantasy_icon_11",
+"batteryIconId": "battery_019",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "fantasy_5",
+"name": "Fantasy 5",
+"categoryId": "fantasy",
+"previewFile": "combos/Fantasy/5.png",
+"emojiId": "fantasy_icon_14",
+"batteryIconId": "battery_127",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "fantasy_6",
+"name": "Fantasy 6",
+"categoryId": "fantasy",
+"previewFile": "combos/Fantasy/6.png",
+"emojiId": "fantasy_icon_22",
+"batteryIconId": "battery_088",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "fantasy_7",
+"name": "Fantasy 7",
+"categoryId": "fantasy",
+"previewFile": "combos/Fantasy/7.png",
+"emojiId": "fantasy_icon_31",
+"batteryIconId": "battery_084",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "fantasy_8",
+"name": "Fantasy 8",
+"categoryId": "fantasy",
+"previewFile": "combos/Fantasy/8.png",
+"emojiId": "fantasy_icon_33",
+"batteryIconId": "battery_093",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "fantasy_9",
+"name": "Fantasy 9",
+"categoryId": "fantasy",
+"previewFile": "combos/Fantasy/9.png",
+"emojiId": "fantasy_icon_40",
+"batteryIconId": "battery_006",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "fantasy_10",
+"name": "Fantasy 10",
+"categoryId": "fantasy",
+"previewFile": "combos/Fantasy/10.png",
+"emojiId": "fantasy_icon_41",
+"batteryIconId": "battery_106",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "fantasy_11",
+"name": "Fantasy 11",
+"categoryId": "fantasy",
+"previewFile": "combos/Fantasy/11.png",
+"emojiId": "fantasy_icon_44",
+"batteryIconId": "battery_009",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "fantasy_12",
+"name": "Fantasy 12",
+"categoryId": "fantasy",
+"previewFile": "combos/Fantasy/12.png",
+"emojiId": "fantasy_icon_53",
+"batteryIconId": "battery_012",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "fantasy_13",
+"name": "Fantasy 13",
+"categoryId": "fantasy",
+"previewFile": "combos/Fantasy/13.png",
+"emojiId": "fantasy_icon_60",
+"batteryIconId": "battery_121",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "fantasy_14",
+"name": "Fantasy 14",
+"categoryId": "fantasy",
+"previewFile": "combos/Fantasy/14.png",
+"emojiId": "fantasy_icon_26",
+"batteryIconId": "battery_131",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "fantasy_15",
+"name": "Fantasy 15",
+"categoryId": "fantasy",
+"previewFile": "combos/Fantasy/15.png",
+"emojiId": "fantasy_icon_09",
+"batteryIconId": "battery_074",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "fantasy_16",
+"name": "Fantasy 16",
+"categoryId": "fantasy",
+"previewFile": "combos/Fantasy/16.png",
+"emojiId": "fantasy_icon_25",
+"batteryIconId": "battery_152",
+"isDefault": true,
+"isPremium": false
+},
+   {
+"id": "food_1",
+"name": "Food 1",
+"categoryId": "food",
+"previewFile": "combos/Food/1.png",
+"emojiId": "food_icon_08",
+"batteryIconId": "battery_001",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "food_2",
+"name": "Food 2",
+"categoryId": "food",
+"previewFile": "combos/Food/2.png",
+"emojiId": "food_icon_05",
+"batteryIconId": "battery_003",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "food_3",
+"name": "Food 3",
+"categoryId": "food",
+"previewFile": "combos/Food/3.png",
+"emojiId": "food_icon_02",
+"batteryIconId": "battery_002",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "food_4",
+"name": "Food 4",
+"categoryId": "food",
+"previewFile": "combos/Food/4.png",
+"emojiId": "food_icon_10",
+"batteryIconId": "battery_019",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "food_5",
+"name": "Food 5",
+"categoryId": "food",
+"previewFile": "combos/Food/5.png",
+"emojiId": "food_icon_12",
+"batteryIconId": "battery_127",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "food_6",
+"name": "Food 6",
+"categoryId": "food",
+"previewFile": "combos/Food/6.png",
+"emojiId": "food_icon_15",
+"batteryIconId": "battery_088",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "food_7",
+"name": "Food 7",
+"categoryId": "food",
+"previewFile": "combos/Food/7.png",
+"emojiId": "food_icon_19",
+"batteryIconId": "battery_084",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "food_8",
+"name": "Food 8",
+"categoryId": "food",
+"previewFile": "combos/Food/8.png",
+"emojiId": "food_icon_23",
+"batteryIconId": "battery_093",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "food_9",
+"name": "Food 9",
+"categoryId": "food",
+"previewFile": "combos/Food/9.png",
+"emojiId": "food_icon_26",
+"batteryIconId": "battery_006",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "food_10",
+"name": "Food 10",
+"categoryId": "food",
+"previewFile": "combos/Food/10.png",
+"emojiId": "food_icon_30",
+"batteryIconId": "battery_106",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "food_11",
+"name": "Food 11",
+"categoryId": "food",
+"previewFile": "combos/Food/11.png",
+"emojiId": "food_icon_45",
+"batteryIconId": "battery_009",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "food_12",
+"name": "Food 12",
+"categoryId": "food",
+"previewFile": "combos/Food/12.png",
+"emojiId": "food_icon_36",
+"batteryIconId": "battery_012",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "food_13",
+"name": "Food 13",
+"categoryId": "food",
+"previewFile": "combos/Food/13.png",
+"emojiId": "food_icon_41",
+"batteryIconId": "battery_121",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "food_14",
+"name": "Food 14",
+"categoryId": "food",
+"previewFile": "combos/Food/14.png",
+"emojiId": "food_icon_42",
+"batteryIconId": "battery_131",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "food_15",
+"name": "Food 15",
+"categoryId": "food",
+"previewFile": "combos/Food/15.png",
+"emojiId": "food_icon_50",
+"batteryIconId": "battery_074",
+"isDefault": true,
+"isPremium": false
+},
+{
+"id": "food_16",
+"name": "Food 16",
+"categoryId": "food",
+"previewFile": "combos/Food/16.png",
+"emojiId": "food_icon_53",
+"batteryIconId": "battery_152",
+"isDefault": true,
+"isPremium": false
+},
     {
-      "id": "animal_1_combo",
-      "name": "Happy Panda",
-      "categoryId": "animals",
-      "previewFile": "combos/Animals/animal_1_combo.png",
-      "emojiId": "animal_1_emoji",
-      "batteryIconId": "b_1",
-      "isDefault": true,
-      "isPremium": false
-    },
-    {
-      "id": "combo_panda_classic_love",
-      "name": "Happy Panda",
-      "categoryId": "love",
-      "previewFile": "combos/Love/combo_panda_classic.png",
-      "emojiId": "panda",
-      "batteryIconId": "classic_green",
-      "isDefault": false,
-      "isPremium": true
-    },
-    {
-      "id": "combo_panda_classic_cute",
-      "name": "Happy Panda",
-      "categoryId": "cute",
-      "previewFile": "combos/Cute/combo_panda_classic.png",
-      "emojiId": "panda",
-      "batteryIconId": "classic_green",
-      "isDefault": false,
-      "isPremium": true
-    },
-    {
-      "id": "combo_panda_classic_fantasy",
-      "name": "Happy Panda",
-      "categoryId": "fantasy",
-      "previewFile": "combos/Fantasy/combo_panda_classic.png",
-      "emojiId": "panda",
-      "batteryIconId": "classic_green",
-      "isDefault": false,
-      "isPremium": true
-    },
-    {
-      "id": "combo_panda_classic_nature",
-      "name": "Happy Panda",
-      "categoryId": "nature",
-      "previewFile": "combos/Nature/combo_panda_classic.png",
-      "emojiId": "panda",
-      "batteryIconId": "classic_green",
-      "isDefault": false,
-      "isPremium": true
-    },
-    {
-      "id": "combo_panda_classic_food",
-      "name": "Happy Panda",
-      "categoryId": "food",
-      "previewFile": "combos/Food/combo_panda_classic.png",
-      "emojiId": "panda",
-      "batteryIconId": "classic_green",
-      "isDefault": false,
-      "isPremium": true
-    },
-    {
-      "id": "combo_panda_classic_seasonal",
-      "name": "Happy Panda",
-      "categoryId": "seasonal",
-      "previewFile": "combos/Seasonal/combo_panda_classic.png",
-      "emojiId": "panda",
-      "batteryIconId": "classic_green",
-      "isDefault": false,
-      "isPremium": true
-    },
-    {
-      "id": "combo_panda_classic_mood",
-      "name": "Happy Panda",
-      "categoryId": "mood",
-      "previewFile": "combos/Mood/combo_panda_classic.png",
-      "emojiId": "panda",
-      "batteryIconId": "classic_green",
-      "isDefault": false,
-      "isPremium": false
-    },
-    {
-      "id": "combo_panda_classic_aesthetic",
-      "name": "Happy Panda",
-      "categoryId": "aesthetic",
-      "previewFile": "combos/Aesthetic/combo_panda_classic.png",
-      "emojiId": "panda",
-      "batteryIconId": "classic_green",
-      "isDefault": false,
-      "isPremium": true
-    },
-    {
-      "id": "combo_panda_classic_funny",
-      "name": "Happy Panda",
-      "categoryId": "funny",
-      "previewFile": "combos/Funny/combo_panda_classic.png",
-      "emojiId": "panda",
-      "batteryIconId": "classic_green",
-      "isDefault": false,
-      "isPremium": true
-    }
+    "id": "funny_1",
+    "name": "Funny 1",
+    "categoryId": "funny",
+    "previewFile": "combos/Funny/1.png",
+    "emojiId": "funny_icon_1",
+    "batteryIconId": "battery_020",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "funny_2",
+    "name": "Funny 2",
+    "categoryId": "funny",
+    "previewFile": "combos/Funny/2.png",
+    "emojiId": "funny_icon_2",
+    "batteryIconId": "battery_002",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "funny_3",
+    "name": "Funny 3",
+    "categoryId": "funny",
+    "previewFile": "combos/Funny/3.png",
+    "emojiId": "funny_icon_12",
+    "batteryIconId": "battery_009",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "funny_4",
+    "name": "Funny 4",
+    "categoryId": "funny",
+    "previewFile": "combos/Funny/4.png",
+    "emojiId": "funny_icon_14",
+    "batteryIconId": "battery_019",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "funny_5",
+    "name": "Funny 5",
+    "categoryId": "funny",
+    "previewFile": "combos/Funny/5.png",
+    "emojiId": "funny_icon_16",
+    "batteryIconId": "battery_127",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "funny_6",
+    "name": "Funny 6",
+    "categoryId": "funny",
+    "previewFile": "combos/Funny/6.png",
+    "emojiId": "funny_icon_18",
+    "batteryIconId": "battery_088",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "funny_7",
+    "name": "Funny 7",
+    "categoryId": "funny",
+    "previewFile": "combos/Funny/7.png",
+    "emojiId": "funny_icon_21",
+    "batteryIconId": "battery_161",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "funny_8",
+    "name": "Funny 8",
+    "categoryId": "funny",
+    "previewFile": "combos/Funny/8.png",
+    "emojiId": "funny_icon_26",
+    "batteryIconId": "battery_093",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "funny_9",
+    "name": "Funny 9",
+    "categoryId": "funny",
+    "previewFile": "combos/Funny/9.png",
+    "emojiId": "funny_icon_31",
+    "batteryIconId": "battery_113",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "funny_10",
+    "name": "Funny 10",
+    "categoryId": "funny",
+    "previewFile": "combos/Funny/10.png",
+    "emojiId": "funny_icon_32",
+    "batteryIconId": "battery_106",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "funny_11",
+    "name": "Funny 11",
+    "categoryId": "funny",
+    "previewFile": "combos/Funny/11.png",
+    "emojiId": "funny_icon_33",
+    "batteryIconId": "battery_098",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "funny_12",
+    "name": "Funny 12",
+    "categoryId": "funny",
+    "previewFile": "combos/Funny/12.png",
+    "emojiId": "funny_icon_34",
+    "batteryIconId": "battery_012",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "funny_13",
+    "name": "Funny 13",
+    "categoryId": "funny",
+    "previewFile": "combos/Funny/13.png",
+    "emojiId": "funny_icon_41",
+    "batteryIconId": "battery_001",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "funny_14",
+    "name": "Funny 14",
+    "categoryId": "funny",
+    "previewFile": "combos/Funny/14.png",
+    "emojiId": "funny_icon_45",
+    "batteryIconId": "battery_156",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "funny_15",
+    "name": "Funny 15",
+    "categoryId": "funny",
+    "previewFile": "combos/Funny/15.png",
+    "emojiId": "funny_icon_29",
+    "batteryIconId": "battery_078",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "funny_16",
+    "name": "Funny 16",
+    "categoryId": "funny",
+    "previewFile": "combos/Funny/16.png",
+    "emojiId": "funny_icon_3",
+    "batteryIconId": "battery_152",
+    "isDefault": true,
+    "isPremium": false
+  },
+     {
+    "id": "love_1",
+    "name": "Love 1",
+    "categoryId": "love",
+    "previewFile": "combos/Love/1.png",
+    "emojiId": "love_icon_1",
+    "batteryIconId": "battery_020",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "love_2",
+    "name": "Love 2",
+    "categoryId": "love",
+    "previewFile": "combos/Love/2.png",
+    "emojiId": "love_icon_45",
+    "batteryIconId": "battery_002",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "love_3",
+    "name": "Love 3",
+    "categoryId": "love",
+    "previewFile": "combos/Love/3.png",
+    "emojiId": "love_icon_10",
+    "batteryIconId": "battery_009",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "love_4",
+    "name": "Love 4",
+    "categoryId": "love",
+    "previewFile": "combos/Love/4.png",
+    "emojiId": "love_icon_12",
+    "batteryIconId": "battery_019",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "love_5",
+    "name": "Love 5",
+    "categoryId": "love",
+    "previewFile": "combos/Love/5.png",
+    "emojiId": "love_icon_14",
+    "batteryIconId": "battery_098",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "love_6",
+    "name": "Love 6",
+    "categoryId": "love",
+    "previewFile": "combos/Love/6.png",
+    "emojiId": "love_icon_19",
+    "batteryIconId": "battery_084",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "love_7",
+    "name": "Love 7",
+    "categoryId": "love",
+    "previewFile": "combos/Love/7.png",
+    "emojiId": "love_icon_24",
+    "batteryIconId": "battery_006",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "love_8",
+    "name": "Love 8",
+    "categoryId": "love",
+    "previewFile": "combos/Love/8.png",
+    "emojiId": "love_icon_26",
+    "batteryIconId": "battery_002",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "love_9",
+    "name": "Love 9",
+    "categoryId": "love",
+    "previewFile": "combos/Love/9.png",
+    "emojiId": "love_icon_27",
+    "batteryIconId": "battery_009",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "love_10",
+    "name": "Love 10",
+    "categoryId": "love",
+    "previewFile": "combos/Love/10.png",
+    "emojiId": "love_icon_30",
+    "batteryIconId": "battery_131",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "love_11",
+    "name": "Love 11",
+    "categoryId": "love",
+    "previewFile": "combos/Love/11.png",
+    "emojiId": "love_icon_33",
+    "batteryIconId": "battery_009",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "love_12",
+    "name": "Love 12",
+    "categoryId": "love",
+    "previewFile": "combos/Love/12.png",
+    "emojiId": "love_icon_54",
+    "batteryIconId": "battery_084",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "love_13",
+    "name": "Love 13",
+    "categoryId": "love",
+    "previewFile": "combos/Love/13.png",
+    "emojiId": "love_icon_35",
+    "batteryIconId": "battery_121",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "love_14",
+    "name": "Love 14",
+    "categoryId": "love",
+    "previewFile": "combos/Love/14.png",
+    "emojiId": "love_icon_36",
+    "batteryIconId": "battery_002",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "love_15",
+    "name": "Love 15",
+    "categoryId": "love",
+    "previewFile": "combos/Love/15.png",
+    "emojiId": "love_icon_54",
+    "batteryIconId": "battery_009",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "love_16",
+    "name": "Love 16",
+    "categoryId": "love",
+    "previewFile": "combos/Love/16.png",
+    "emojiId": "love_icon_11",
+    "batteryIconId": "battery_121",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "love_17",
+    "name": "Love 17",
+    "categoryId": "love",
+    "previewFile": "combos/Love/17.png",
+    "emojiId": "love_icon_2",
+    "batteryIconId": "battery_009",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "love_18",
+    "name": "Love 18",
+    "categoryId": "love",
+    "previewFile": "combos/Love/18.png",
+    "emojiId": "love_icon_41",
+    "batteryIconId": "battery_088",
+    "isDefault": true,
+    "isPremium": false
+  },
+     {
+    "id": "mood_1",
+    "name": "Mood 1",
+    "categoryId": "mood",
+    "previewFile": "combos/Mood/1.png",
+    "emojiId": "mood_icon_1",
+    "batteryIconId": "battery_001",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "mood_2",
+    "name": "Mood 2",
+    "categoryId": "mood",
+    "previewFile": "combos/Mood/2.png",
+    "emojiId": "mood_icon_3",
+    "batteryIconId": "battery_002",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "mood_3",
+    "name": "Mood 3",
+    "categoryId": "mood",
+    "previewFile": "combos/Mood/3.png",
+    "emojiId": "mood_icon_20",
+    "batteryIconId": "battery_009",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "mood_4",
+    "name": "Mood 4",
+    "categoryId": "mood",
+    "previewFile": "combos/Mood/4.png",
+    "emojiId": "mood_icon_21",
+    "batteryIconId": "battery_135",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "mood_5",
+    "name": "Mood 5",
+    "categoryId": "mood",
+    "previewFile": "combos/Mood/5.png",
+    "emojiId": "mood_icon_29",
+    "batteryIconId": "battery_009",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "mood_6",
+    "name": "Mood 6",
+    "categoryId": "mood",
+    "previewFile": "combos/Mood/6.png",
+    "emojiId": "mood_icon_35",
+    "batteryIconId": "battery_002",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "mood_7",
+    "name": "Mood 7",
+    "categoryId": "mood",
+    "previewFile": "combos/Mood/7.png",
+    "emojiId": "mood_icon_39",
+    "batteryIconId": "battery_017",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "mood_8",
+    "name": "Mood 8",
+    "categoryId": "mood",
+    "previewFile": "combos/Mood/8.png",
+    "emojiId": "mood_icon_41",
+    "batteryIconId": "battery_145",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "mood_9",
+    "name": "Mood 9",
+    "categoryId": "mood",
+    "previewFile": "combos/Mood/9.png",
+    "emojiId": "mood_icon_57",
+    "batteryIconId": "battery_084",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "mood_10",
+    "name": "Mood 10",
+    "categoryId": "mood",
+    "previewFile": "combos/Mood/10.png",
+    "emojiId": "mood_icon_58",
+    "batteryIconId": "battery_001",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "mood_11",
+    "name": "Mood 11",
+    "categoryId": "mood",
+    "previewFile": "combos/Mood/11.png",
+    "emojiId": "mood_icon_62",
+    "batteryIconId": "battery_010",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "mood_12",
+    "name": "Mood 12",
+    "categoryId": "mood",
+    "previewFile": "combos/Mood/12.png",
+    "emojiId": "mood_icon_69",
+    "batteryIconId": "battery_003",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "mood_13",
+    "name": "Mood 13",
+    "categoryId": "mood",
+    "previewFile": "combos/Mood/13.png",
+    "emojiId": "mood_icon_70",
+    "batteryIconId": "battery_006",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "mood_14",
+    "name": "Mood 14",
+    "categoryId": "mood",
+    "previewFile": "combos/Mood/14.png",
+    "emojiId": "mood_icon_30",
+    "batteryIconId": "battery_009",
+    "isDefault": true,
+    "isPremium": false
+  },
+     {
+    "id": "nature_1",
+    "name": "Nature 1",
+    "categoryId": "nature",
+    "previewFile": "combos/Nature/1.png",
+    "emojiId": "nature_icon_1",
+    "batteryIconId": "battery_013",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "nature_2",
+    "name": "Nature 2",
+    "categoryId": "nature",
+    "previewFile": "combos/Nature/2.png",
+    "emojiId": "nature_icon_2",
+    "batteryIconId": "battery_057",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "nature_3",
+    "name": "Nature 3",
+    "categoryId": "nature",
+    "previewFile": "combos/Nature/3.png",
+    "emojiId": "nature_icon_8",
+    "batteryIconId": "battery_003",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "nature_4",
+    "name": "Nature 4",
+    "categoryId": "nature",
+    "previewFile": "combos/Nature/4.png",
+    "emojiId": "nature_icon_9",
+    "batteryIconId": "battery_004",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "nature_5",
+    "name": "Nature 5",
+    "categoryId": "nature",
+    "previewFile": "combos/Nature/5.png",
+    "emojiId": "nature_icon_17",
+    "batteryIconId": "battery_002",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "nature_6",
+    "name": "Nature 6",
+    "categoryId": "nature",
+    "previewFile": "combos/Nature/6.png",
+    "emojiId": "nature_icon_33",
+    "batteryIconId": "battery_007",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "nature_7",
+    "name": "Nature 7",
+    "categoryId": "nature",
+    "previewFile": "combos/Nature/7.png",
+    "emojiId": "nature_icon_46",
+    "batteryIconId": "battery_118",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "nature_8",
+    "name": "Nature 8",
+    "categoryId": "nature",
+    "previewFile": "combos/Nature/8.png",
+    "emojiId": "nature_icon_50",
+    "batteryIconId": "battery_012",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "nature_9",
+    "name": "Nature 9",
+    "categoryId": "nature",
+    "previewFile": "combos/Nature/9.png",
+    "emojiId": "nature_icon_56",
+    "batteryIconId": "battery_016",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "nature_10",
+    "name": "Nature 10",
+    "categoryId": "nature",
+    "previewFile": "combos/Nature/10.png",
+    "emojiId": "nature_icon_57",
+    "batteryIconId": "battery_074",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "nature_11",
+    "name": "Nature 11",
+    "categoryId": "nature",
+    "previewFile": "combos/Nature/11.png",
+    "emojiId": "nature_icon_62",
+    "batteryIconId": "battery_008",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "nature_12",
+    "name": "Nature 12",
+    "categoryId": "nature",
+    "previewFile": "combos/Nature/12.png",
+    "emojiId": "nature_icon_66",
+    "batteryIconId": "battery_088",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "nature_13",
+    "name": "Nature 13",
+    "categoryId": "nature",
+    "previewFile": "combos/Nature/13.png",
+    "emojiId": "nature_icon_67",
+    "batteryIconId": "battery_009",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "nature_14",
+    "name": "Nature 14",
+    "categoryId": "nature",
+    "previewFile": "combos/Nature/14.png",
+    "emojiId": "nature_icon_68",
+    "batteryIconId": "battery_152",
+    "isDefault": true,
+    "isPremium": false
+  },
+   {
+    "id": "seasonal_1",
+    "name": "Seasonal 1",
+    "categoryId": "seasonal",
+    "previewFile": "combos/Seasonal/1.png",
+    "emojiId": "seasonal_icon_1",
+    "batteryIconId": "battery_001",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "seasonal_2",
+    "name": "Seasonal 2",
+    "categoryId": "seasonal",
+    "previewFile": "combos/Seasonal/2.png",
+    "emojiId": "seasonal_icon_3",
+    "batteryIconId": "battery_010",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "seasonal_3",
+    "name": "Seasonal 3",
+    "categoryId": "seasonal",
+    "previewFile": "combos/Seasonal/3.png",
+    "emojiId": "seasonal_icon_9",
+    "batteryIconId": "battery_011",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "seasonal_4",
+    "name": "Seasonal 4",
+    "categoryId": "seasonal",
+    "previewFile": "combos/Seasonal/4.png",
+    "emojiId": "seasonal_icon_11",
+    "batteryIconId": "battery_009",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "seasonal_5",
+    "name": "Seasonal 5",
+    "categoryId": "seasonal",
+    "previewFile": "combos/Seasonal/5.png",
+    "emojiId": "seasonal_icon_12",
+    "batteryIconId": "battery_057",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "seasonal_6",
+    "name": "Seasonal 6",
+    "categoryId": "seasonal",
+    "previewFile": "combos/Seasonal/6.png",
+    "emojiId": "seasonal_icon_21",
+    "batteryIconId": "battery_006",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "seasonal_7",
+    "name": "Seasonal 7",
+    "categoryId": "seasonal",
+    "previewFile": "combos/Seasonal/7.png",
+    "emojiId": "seasonal_icon_31",
+    "batteryIconId": "battery_036",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "seasonal_8",
+    "name": "Seasonal 8",
+    "categoryId": "seasonal",
+    "previewFile": "combos/Seasonal/8.png",
+    "emojiId": "seasonal_icon_35",
+    "batteryIconId": "battery_001",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "seasonal_9",
+    "name": "Seasonal 9",
+    "categoryId": "seasonal",
+    "previewFile": "combos/Seasonal/9.png",
+    "emojiId": "seasonal_icon_37",
+    "batteryIconId": "battery_007",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "seasonal_10",
+    "name": "Seasonal 10",
+    "categoryId": "seasonal",
+    "previewFile": "combos/Seasonal/10.png",
+    "emojiId": "seasonal_icon_59",
+    "batteryIconId": "battery_088",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "seasonal_11",
+    "name": "Seasonal 11",
+    "categoryId": "seasonal",
+    "previewFile": "combos/Seasonal/11.png",
+    "emojiId": "seasonal_icon_51",
+    "batteryIconId": "battery_152",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "seasonal_12",
+    "name": "Seasonal 12",
+    "categoryId": "seasonal",
+    "previewFile": "combos/Seasonal/12.png",
+    "emojiId": "seasonal_icon_57",
+    "batteryIconId": "battery_127",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "seasonal_13",
+    "name": "Seasonal 13",
+    "categoryId": "seasonal",
+    "previewFile": "combos/Seasonal/13.png",
+    "emojiId": "seasonal_icon_58",
+    "batteryIconId": "battery_013",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "seasonal_14",
+    "name": "Seasonal 14",
+    "categoryId": "seasonal",
+    "previewFile": "combos/Seasonal/14.png",
+    "emojiId": "nature_icon_46",
+    "batteryIconId": "battery_147",
+    "isDefault": true,
+    "isPremium": false
+  },
+  {
+    "id": "seasonal_15",
+    "name": "Seasonal 15",
+    "categoryId": "seasonal",
+    "previewFile": "combos/Seasonal/15.png",
+    "emojiId": "nature_icon_50",
+    "batteryIconId": "battery_009",
+    "isDefault": true,
+    "isPremium": false
+  }
   ],
   "templates": [
     {
