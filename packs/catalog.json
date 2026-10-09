@@ -11202,26 +11202,6 @@
   "isDefault": true,
   "isPremium": false
 },
-     {
-"id": "cute_1",
-"name": "Cute 1",
-"categoryId": "cute",
-"previewFile": "combos/Cute/1.png",
-"emojiId": "emoji_1",
-"batteryIconId": "battery_020",
-"isDefault": true,
-"isPremium": false
-},
-{
-"id": "cute_2",
-"name": "Cute 2",
-"categoryId": "cute",
-"previewFile": "combos/Cute/2.png",
-"emojiId": "emoji_2",
-"batteryIconId": "battery_002",
-"isDefault": true,
-"isPremium": false
-},
 {
 "id": "cute_3",
 "name": "Cute 3",
@@ -11229,26 +11209,6 @@
 "previewFile": "combos/Cute/3.png",
 "emojiId": "love_icon_10",
 "batteryIconId": "battery_009",
-"isDefault": true,
-"isPremium": false
-},
-{
-"id": "cute_4",
-"name": "Cute 4",
-"categoryId": "cute",
-"previewFile": "combos/Cute/4.png",
-"emojiId": "emoji_4",
-"batteryIconId": "battery_019",
-"isDefault": true,
-"isPremium": false
-},
-{
-"id": "cute_5",
-"name": "Cute 5",
-"categoryId": "cute",
-"previewFile": "combos/Cute/5.png",
-"emojiId": "emoji_5",
-"batteryIconId": "battery_127",
 "isDefault": true,
 "isPremium": false
 },
@@ -11333,32 +11293,12 @@
 "isPremium": false
 },
 {
-"id": "cute_14",
-"name": "Cute 14",
-"categoryId": "cute",
-"previewFile": "combos/Cute/14.png",
-"emojiId": "emoji_14",
-"batteryIconId": "battery_131",
-"isDefault": true,
-"isPremium": false
-},
-{
 "id": "cute_15",
 "name": "Cute 15",
 "categoryId": "cute",
 "previewFile": "combos/Cute/15.png",
 "emojiId": "love_icon_31",
 "batteryIconId": "battery_074",
-"isDefault": true,
-"isPremium": false
-},
-{
-"id": "cute_16",
-"name": "Cute 16",
-"categoryId": "cute",
-"previewFile": "combos/Cute/16.png",
-"emojiId": "emoji_16",
-"batteryIconId": "battery_152",
 "isDefault": true,
 "isPremium": false
 },
