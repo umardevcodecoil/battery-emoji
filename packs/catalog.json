@@ -3,10 +3,6 @@
   "baseUrl": "https://raw.githubusercontent.com/umardevcodecoil/battery-emoji/main/packs/",
   "categories": [
     {
-      "id": "aesthetic",
-      "name": "Aesthetic"
-    },
-    {
       "id": "animals",
       "name": "Animals"
     },
