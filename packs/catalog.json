@@ -14478,26 +14478,6 @@
       },
       "isDefault": true,
       "isPremium": false
-    },
-    {
-      "id": "pet_100",
-      "name": "Hot Balloon in the air",
-      "categoryId": "animals",
-      "states": {
-        "idle": "pets/Animals/pet_100/idle.lottie",
-        "walking": "pets/Animals/pet_100/idle.lottie",
-        "happy": "pets/Animals/pet_100/idle.lottie",
-        "climbing": "pets/Animals/pet_100/idle.lottie",
-        "falling": "pets/Animals/pet_100/idle.lottie",
-        "cieling": "pets/Animals/pet_100/idle.lottie"
-      },
-      "checksums": {
-        "idle": "REPLACE_WITH_SHA256",
-        "walking": "REPLACE_WITH_SHA256",
-        "happy": "REPLACE_WITH_SHA256"
-      },
-      "isDefault": true,
-      "isPremium": false
     }
 ]
 }
