@@ -9025,22 +9025,6 @@
       },
   "backgrounds": [
   {
-    "id": "bg_1",
-    "name": "Bg 1",
-    "categoryId": "aesthetic",
-    "file": "backgrounds/theme1_bg.png",
-    "checksum": "REPLACE_WITH_SHA256",
-    "isPremium": false
-  },
-  {
-    "id": "bg_2",
-    "name": "Bg 2",
-    "categoryId": "aesthetic",
-    "file": "backgrounds/theme2_bg.png",
-    "checksum": "REPLACE_WITH_SHA256",
-    "isPremium": false
-  },
-  {
     "id": "bg_3",
     "name": "Bg 3",
     "categoryId": "aesthetic",
@@ -12388,44 +12372,6 @@
   }
   ],
   "templates": [
-    {
-      "id": "template_1",
-      "name": "Template 1",
-      "categoryId": "animals",
-      "previewFile": "template_previews/template1.png",
-      "emoji_id": "animal_1_emoji",
-      "battery_id": "b_1",
-      "backgroundId": "bg_1",
-      "themeColor": "#F3378C",
-      "timeFont": "poetsenone_regular",
-      "wifiIconId": "wifi_2",
-      "signalIconId": "signal_3",
-      "airplaneIconId": "airplane_2",
-      "ringerIconId": "ringer_2",
-      "hotspotIconId": "hotspot_6",
-      "chargingIconId": "charging_6",
-      "isDefault": false,
-      "isPremium": true
-    },
-    {
-      "id": "template_2",
-      "name": "Template 2",
-      "categoryId": "animals",
-      "previewFile": "template_previews/template2.png",
-      "emoji_id": "animal_2_emoji",
-      "battery_id": "b_2",
-      "backgroundId": "bg_2",
-      "themeColor": "#FF8400",
-      "timeFont": "plaster_regular",
-      "wifiIconId": "wifi_1",
-      "signalIconId": "signal_2",
-      "airplaneIconId": "airplane_3",
-      "ringerIconId": "ringer_3",
-      "hotspotIconId": "hotspot_5",
-      "chargingIconId": "charging_7",
-      "isDefault": false,
-      "isPremium": true
-    },
     {
       "id": "template_3",
       "name": "Template 3",
